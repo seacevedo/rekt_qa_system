@@ -1,0 +1,1306 @@
+id,question
+0,"Who was the attacker that exploited the smart contract in Aave on August 28, 2024?"
+0,How did the attacker utilize the arbitrary call error to steal funds from multiple contracts within Aave's ecosystem?
+0,What is the estimated amount stolen by the exploiter during this hack on Aave?
+0,What was the total amount of tokens leftover from slippage that were accumulated across several blockchain networks?
+0,In what sense did Aave representatives describe the hack as a 'raid of the tip jar'?
+1,"What is the history of one of the brothers, Jonathan Adam, in terms of criminal convictions related to securities law violations?"
+1,"How were the funds of investors utilized according to the SEC's allegations, and how much of it was actually used to pay other investors?"
+1,Who were the individuals charged by SEC for a $60 million Ponzi scheme involving GCZ Global and Triten Financial Group?
+1,"What did the accused brothers claim to offer to investors in their crypto bot business, and what percentage returns did they promise?"
+1,"In what ways did the brothers use investor funds outside of paying returns, as per the summary?"
+2,"What is the recommended course of action for those who suffer losses via a hack or scam, like the affected users in this incident?"
+2,What steps should I take to secure my tokens when using a platform like Discord for discussions related to cryptocurrencies like Polygon?
+2,"How can I recognize phishing links or compromised members in a Discord server, specifically for Polygon or similar cryptocurrency projects?"
+2,Are there any red flags that could have alerted users about the suspicious nature of the link shared in the Polygon Discord server before clicking it?
+2,"Given the recent Polygon Discord hack, how can I prevent losing my cryptocurrency funds in future incidents involving server hacks or token distributions?"
+3,What was the coin promoted on the compromised accounts that caused significant price fluctuations?
+3,How much profit did the attacker make from this hack by selling off their holdings of the promoted coin?
+3,Why did the token price spike and plunge after the posts to McDonald's followers?
+3,What is the significance of the phrase 'you have just been rug pulled' in the compromised Instagram account bio?
+3,Who hacked McDonald's Instagram account and the Twitter account of a McDonald's marketing director in August 2024?
+4,Can you provide more details about the transaction that reassigned ownership of the DAI stash to a phishing address?
+4,Is there any available information regarding the current whereabouts or identity of the attacker?
+4,"Approximately how long after the original transfer did the victim attempt to withdraw their tokens, and why was the withdrawal attempt unsuccessful?"
+4,What was the total value lost in DAI stablecoins due to this apparent phishing attack?
+4,What happened to the remaining portion of the stolen DAI tokens not exchanged for ETH?
+5,"Which funds were used by Shan Hanes to invest in the fraudulent cryptocurrency scheme, including amounts and dates of fund transfers from Heartland Tri-State Bank?"
+5,"What was the duration of imprisonment handed to Shan Hanes for his involvement in a cryptocurrency embezzlement scheme, particularly the 'pig butchering' scam?"
+5,Why did those running the fraudulent cryptocurrency scheme ask for more money to 'unlock' returns on Hanes' investments — suggesting a tactic common with these types of scams?
+5,What were the financial impacts of Hanes' actions on both Heartland Tri-State Bank and Equity investors? How much did equity investors lose as a direct result of this scheme?
+5,"Who else was involved in the cryptocurrency scheme aside from Shan Hanes, given that he took money from various sources such as a local church, investment club, and daughter's college savings?"
+6,How much money did Austin 'DNP3' Taylor allegedly steal from the CluCoin project he founded?
+6,What cryptocurrency project did Austin 'DNP3' Taylor plead guilty to committing wire fraud against?
+6,"How are victims of this alleged fraud being notified, according to the information provided in the record?"
+6,Why did Austin 'DNP3' Taylor use investor funds for gambling purposes in online casinos?
+6,What punishments may Austin 'DNP3' Taylor face as a result of his guilty plea and wire fraud conviction?
+7,"What safeguards could have prevented this individual from losing $100,000 in bitcoin, ether, and US dollars?"
+7,Why was the man in his 60s convinced that the person he spoke with on the phone was a genuine Coinbase support representative?
+7,How did the scammer make it to the top of Google search rankings for 'Coinbase'?
+7,Do crypto platforms have similar reverse transaction capabilities as major banking platforms?
+7,Are phishing attacks more prevalent in the cryptocurrency industry or traditional finance (TradFi)?
+8,What was the approximate amount stolen by North Korean developers from a cryptocurrency project through malicious code?
+8,"Approximately how much money was these developers able to earn over the past month, as per the information provided?"
+8,"In what time frame did zachxbt trace the payment addresses of the mentioned developers (i.e., within this specific incident or over a longer period)?"
+8,"How many developers, according to zachxbt, were involved in this activity and had been found working for at least 25 different cryptocurrency projects?"
+8,"How were the North Korean developers able to maintain multiple identities while working on different crypto projects, as per the record?"
+9,What actions were taken by the Ronin team following the detection of the flaw and before bringing the bridge back online?
+9,"Who were the main beneficiaries of this incident, and why?"
+9,What safety feature in the code was triggered due to the maximum amount being exceeded during the incident?
+9,What was the nature of the incident that resulted in $12 million being taken from the Ronin bridge and what was taken exactly?
+9,How did the flaw in the update to the bridge code contribute to the incident?
+10,What was the nature of the exploit on ConvergenceFi?
+10,How did the attacker drain the tokens from ConvergenceFi's staking emissions?
+10,Why did ConvergenceFi claim their users' funds were safe despite being hacked?
+10,Why could the attacker set an arbitrary amount of tokens to return in the ConvergenceFi smart contract?
+10,What actions were recommended for users by ConvergenceFi after the hack?
+11,Who was the attacker who hacked MonoSwap DEX and how much money has been laundered so far?
+11,How did the attack on MonoSwap occur according to the project team's statement?
+11,What is the cryptocurrency mixer used by the MonoSwap attacker for laundering the stolen funds?
+11,Incidents like this have happened recently. Can you provide another example where a victim lost cryptocurrency using a similar method of attack (malicious video chat software)?
+11,"What actions were taken by MonoSwap following the discovery of the hack, as mentioned in their announcement?"
+12,"When did the dYdX upgrade from v3 to v4, and how was this upgrade related to the compromise?"
+12,Was the compromise on the dYdX v3 exchange website connected to any similar events in July 2024?
+12,Why did the company behind the dYdX v3 exchange announce a potential sale of their software at the time of the compromise?
+12,What platform was the dYdX v3 exchange website temporarily compromised on?
+12,"Is it safe to use the dYdX v3 exchange now, given that it was compromised?"
+13,Which wallet of WazirX was compromised in the hack?
+13,Did WazirX pause withdrawals due to this hack?
+13,"What is the total amount stolen in the WazirX hack that occurred on July 18, 2024?"
+13,What significant event led to the separation between WazirX and Binance in 2023?
+13,"Who is suspected to be behind the WazirX hack, based on evidence observed by blockchain analysts?"
+14, Who was the attacker in the LI.FI Protocol hack and what is known about their method of exploitation?
+14," What specific smart contracts were affected in the $10 million wallet drain on LI.FI Protocol, and how can I determine if they affect me?"
+14, Should I continue using any LI.FI-powered applications at this time?
+14, How do I revoke permission from the affected smart contracts mentioned in the LI.FI Protocol warning?
+14, What should I do to minimize potential losses if I am a user of projects that build on top of the LI.FI protocol?
+15,What is the name of the defi lending project that was hacked for $1.4 million?
+15,Which method did the attacker use to manipulate the exchange rate in the Minterest hack?
+15,Why did the Minterest protocol pause the supply and borrow portions following the hack?
+15,What attempt has Minterest made to retrieve some of the stolen funds?
+15,On which date did the Minterest hack occur?
+16,"Who was responsible for the hack on Defi platform Dough Finance, and how did they carry it out using a flash loan attack through the Railgun privacy service?"
+16,What was the value of the crypto assets misappropriated during the Dough Finance hack in USD and ETH?
+16,"Was the response from Dough Finance to the hack appropriate, given their threat to pursue all criminal, legal, and administrative avenues available if the attacker did not return the stolen funds?"
+16,"Is it common for DeFi platforms to be exploited through flash loan attacks, and what measures can these platforms take to prevent such attacks in the future?"
+16,What legal actions have Dough Finance taken or plan to take as they pursue the hacker who carried out the $1.8 million hack?
+17,What were the affected Defi protocol websites in this incident? 
+17,What was the method used to compromise these websites to replace them with wallet drainers?
+17,Why was the 'Unstoppable Domains' web3 domain service also impacted?
+17,"Who do we attribute this attack to, and which company was targeted?"
+17,What advice did Bobby Ong give to users amidst this incident?
+18,Who is Andreas Szakacs and what role did he play in the OmegaPro cryptocurrency Ponzi scheme?
+18,In what year did the OneCoin crypto Ponzi begin operating?
+18,What was the alleged modus operandi of the OmegaPro investors and how were victims enticed to invest more and more until they could not withdraw funds?
+18,Approximately how much money has been claimed in losses by victims related to the OmegaPro Ponzi scheme?
+18,"Who are some of the other people associated with OneCoin that have been arrested, and who remains a subject of interest?"
+19,"What was the cryptocurrency token promoted by the hacker who compromised Doja Cat's Twitter account on July 8, 2024?"
+19,Which social media platform did the hacked message originated from (Twitter or Instagram)?
+19,"How much was the market cap of the promoted token after it reached its peak during the hack?, and what was its subsequent decline?"
+19,"Which other celebrities' Twitter accounts have recently been compromised to promote memecoins besides Doja Cat, as per the information in the record?"
+19,What tag is associated with this incident as per the provided record?
+20,Who was affected by the Bittensor wallet drains?
+20,Approximately how much TAO tokens and value were siphoned during the hack?
+20,What hypothesis was proposed by blockchain sleuth zachxbt regarding the cause of the attack?
+20,How did the malicious Bittensor package make it onto Python's PyPi package manager?
+20,What step has Bittensor taken following the attack?
+21,What specific wallet was compromised in the Farcana incident and how much FAR was taken?
+21,Did the team confirm the exploitation of their smart contracts?
+21,In what manner was the market maker allegedly compromised?
+21,Who are the investors that contributed to Farcana's seed funding round in November 2023?
+21,What is the current worth of the FAR still being held by the exploiter?
+22,What is the technique used in this incident to defraud the victim from their assets?
+22,"Which cryptocurrencies were affected in the $11 million loss reported on June 23, 2024?"
+22,How does a permit phishing attack work as described in this record?
+22,What type of transaction did the scammer make the victim sign to drain assets from their wallets?
+22,Which tags are associated with this incident?
+23,Who observed the alleged $3.5 million theft from Sportsbet.io and when was it observed?
+23,What cryptocurrencies were affected in the alleged theft at Sportsbet.io?
+23,Does SportsBet have confirmed or disclosed any information about the theft yet?
+23,"Who is suspected to be behind the theft at Sportsbet.io, considering the similarities with a previous hack on BtcTurk?"
+23,When and against which cryptocurrency exchange was $55 million allegedly stolen?
+24,Why did CoinStats promise military-grade encryption if their wallets are affected by a breach?
+24,What type of access was requested by CoinStats to track the users' holdings (read/write or read-only)?
+24,"How were 1,500 user wallets impacted in the CoinStats breach despite their promise of 'ultimate security' for digital assets?"
+24,What precautions can I take to ensure my wallet is not vulnerable if I am using a similar read-only access application like CoinStats?
+24,"Despite being marketed as offering read-only access, what could be the possible reasons for nearly $2.2 million worth of losses in the CoinStats breach?"
+25,"Who performed the hack on 50 Cent's accounts to promote the memecoin $GUNIT and how did they make $300,000,000 in 30 minutes?"
+25,"How was the wallet associated with the hack able to make approximately around $722,000 off the token, while the total volume of the token is only $19.8 million?"
+25,Were any other transactions suspicious or large scale related to 50 Cent promoting the memecoin $GUNIT on his Twitter account and website?
+25,"Considering 50 Cent's claim that he has no association with this crypto, can you identify any other associations between 50 Cent and the memecoin $GUNIT that might shed light on the hack?"
+25,"What steps were taken by 50 Cent, the memecoin $GUNIT team, or authorities to prevent further such exploitations of social media accounts for crypto promotion or monetary gain?"
+26,What was the approximate value of the stolen assets in dollars?
+26,Who is the newly installed CEO of Binance mentioned in this report?
+26,Which cryptocurrencies saw substantial selling that caused significant price movement following the hack?
+26,What cryptocurrency exchange was hacked and what were the assets affected?
+26,"Did any other entities freeze any part of the stolen assets? If so, which one(s) and how much?"
+27,Did CertiK perform the testing of the bug in a manner that exceeded what is considered normal for whitehat security researchers?
+27,Is it known if law enforcement is actively investigating the incident between CertiK and Kraken?
+27,What steps did Kraken take in response to the alleged misconduct by CertiK?
+27,"Did Kraken allege that CertiK had attempted to extort them? If so, what was the nature of this allegation?"
+27,What was the amount of cryptocurrency taken by CertiK during the supposed 'testing' period and where did they transfer some of this cryptocurrency?
+28,Does any involvement with the Holograph protocol by one of the addresses involved in the exploit suggest potential insider knowledge may have been used during the heist?
+28,In what form (currency) did the attacker cash out approximately $1.2 million from the exploit?
+28,"What was the total notional value of the HLG tokens minted in the exploit, and how did this contribution to liquidity affect the token price?"
+28,"Who was able to exploit the Holograph tokenization project and mint 1 billion HLG tokens on June 13, 2024?"
+28,"What is the current token price of HLG after the minting of 1 billion additional tokens, representing an 80% drop?"
+29,"Has UwU Lend identified and resolved the vulnerability exploited in the first hack, or did it reoccur due to another vulnerability?"
+29,What is the current status of UwU Lend defi lending protocol following these hacks?
+29,What was the total loss incurred by the UwU Lend protocol as a result of these hacks?
+29,Who is the hacker responsible for both hacks on UwU Lend protocol?
+29,"Is there any pattern or similarity in the vulnerabilities found in projects led by Michael Patryn, also known as '0xSifu'?"
+30,What type of malware was used in connection with the 'Vortax' software and how did it drain cryptocurrency wallets?
+30,How were phishers able to impersonate an Andreessen Horowitz employee using a changed Twitter username?
+30,"Who is crypto sleuth zachxbt and how did he first report on this incident involving the draining of $245,000 worth of cryptocurrency?"
+30,What can be done to mitigate risks or protect against future similar incidents where a phishing scam impersonates a high-ranking employee?
+30,"Why might victims still trust an account even if it differs slightly from the website listing of the associated firm, as was the case with Peter Lauten's account?"
+31,Is there a connection between the hack of UwU Lend and the individual's past involvement with QuadrigaCX?
+31,"Who was the founder of UwU Lend, whose protocol was hacked for around $20 million on June 10, 2024?"
+31,"What was the nature of the situation that led to the pause in the UwU Lend protocol following the $20 million hack on June 10, 2024?"
+31,What other projects has the founder of UwU Lend been involved with before founding this defi lending protocol?
+31,Can you identify the pseudonym(s) associated with the founder of UwU Lend who was involved in the hacked protocol?
+32,What actions has Loopring taken after their wallet recovery service was breached?
+32,How can I protect my assets if I use a single Loopring guardian for account recovery operations?
+32,Why did the attacker succeed in recovering assets from Loopring wallets?
+32,Who is Loopring working with to trace the attackers and recover the stolen funds?
+32,Who was able to 'recover' assets from Loopring wallets and steal at least $5 million?
+33,What was the alleged method by which NovaTech generated returns for investors and how much money deposited actually went into crypto trading?
+33,"Who are Cynthia and Eddy Petion, and what were their alleged fraudulent schemes called?"
+33,How were the victims of the AWS Mining and NovaTech schemes primarily targeted and what were the promises made to them?
+33,What is the total amount of money deposited into NovaTech from August 2019 to April 2023?
+33,"When and where did Cynthia and Eddy Petion move after secretly selling their Florida house, and what comment did Cynthia make to another scheme operator about avoiding arrest?"
+34,What was the amount of cryptocurrency the developer lost after his wallet was drained?
+34,What is generally bad practice regarding storing sensitive secrets in Github as per the given incident?
+34,Which funding grant from which project did the developer apply for that required the private repository to be made public?
+34,How long did it take for the attacker to steal the cryptocurrency after the private key became publicly visible?
+34,Why did the blockchain developer lose his cryptocurrency despite the repository being set to private on Github?
+35,When did the Lykke crypto exchange suffer an exploit and have over $23.6 million stolen?
+35,When and how did Lykke first acknowledged the attack and communicate it to its customers?
+35,How did outside researchers discover the security breach on the Lykke platform?
+35,What were some customer complaints related to their accounts following the exploit?
+35,What was the action taken by Lykke two days after the hack was detected?
+36,What financial gains saw the Epoch Times in comparison to the previous year as a result of this alleged scam?
+36,"How did the banks become suspicious about the revenue increase for Epoch Times, leading to investigation?"
+36,What was the alleged method used by Widong 'Bill' Guan and others to launder funds through bank accounts?
+36,Who is accused of being involved in a cryptocurrency scam and money laundering operation according to the Justice Department?
+36,What evidence led the DOJ to investigate the Epoch Times and Widong 'Bill' Guan for their involvement in this operation?
+37,Why did the operators of the Linea layer-2 blockchain choose to halt the chain after the Velocore DEX exploit?
+37,"What is the goal of Linea's network in terms of decentralization, as stated by its operators after the Velocore DEX exploit?"
+37,What role did Tornado Cash play in the Velocore DEX hack?
+37,What was the method used in the Velocore DEX exploit to drained tokens from the pool?
+37,"How did this incident impact the cryptocurrency ethos, given that it allowed a single operator to unilaterally control a blockchain?"
+38,"How did the hacker gain access to the company wallet at DMM Bitcoin on May 31, 2024?"
+38,"Who was involved in the unauthorized leak of bitcoin from DMM Bitcoin exchange on May 31, 2024?"
+38,What is the relation of this incident to previous significant cryptocurrency thefts such as the one from Wormhole bridge in February 2022 and FTX in November 2022?
+38,"What specific measures has DMM Bitcoin taken offline while investigating the incident on May 31, 2024?"
+38,"How are they planning to replace the lost funds with help from other companies in their group, as stated by DMM Bitcoin on May 31, 2024?"
+39,Who was accused of hacking the Twitter account of 'Gigantic-Cassocked-Rebirth' and what cryptocurrency were they involved with?
+39,"What actions did this team take after hacking the influencer's account, specifically regarding their own memecoin and other tokens like ORDI and ETHFI?"
+39,Approximately how much profit did this team make on the compromised influencer's Twitter account?
+39,On what centralized exchanges could the accused party have opened positions that aren't publicly visible?
+39,"Did the gambit of the accused party seem successful or unsuccessful, given the documented outcomes, and if not, where might they have experienced losses or gains beyond what was reported?"
+40,"When was the vulnerability discovered in the Normie memecoin, and why was it never patched?"
+40,Who was responsible for the flash loan attack on Normie memecoin and what was the monetary value they were able to cash out?
+40,How much did one individual lose due to the flash loan attack on their Normie memecoin holdings?
+40,"What was the initial market capitalization of Normie memecoin, and what is its current price after the hack?"
+40,Are there any plans for the return of funds from the attacker or a possible relaunch of the Normie memecoin?
+41,In what way did Gala Games attempt to prevent the attacker from swapping more of the stolen tokens?
+41,Who was the attacker in the Gala Games hack and how were they able to mint $5 billion GALA tokens?
+41,Was the administrator wallet access obtained by a rogue employee or through a compromised admin wallet?
+41,Has Gala Games made a public statement concerning this hack?
+41,What was the total value that the attacker was able to swap into ETH before their address was frozen?
+42,Who perpetrated the hack on Pump.fun and how much money was stolen?
+42,How has the attacker reacted to statements made by Pump.fun regarding the incident?
+42,"What were the motivations behind the former employee's actions, as stated in their Twitter post?"
+42,"What has been the response of Pump.fun to the hack and subsequent theft?, and"
+42,In what manner did the attacker airdrop the stolen funds to random wallets?
+43,How did the Peraire-Bueno brothers exploit a flaw in 'MEV-boost' software?
+43,"What is 'frontrunning' in this context, and how did the brothers execute it?"
+43,What were the bait transactions used by the Peraire-Bueno brothers for and how did they trick MEV bots?
+43,What is MEV (Maximal Extractable Value) and how does it work?
+43,How did the brothers create false signatures to trick the MEV-boost relay into releasing block information?
+44,"Who does ALEX Lab believe was responsible for the hack, as stated in their announcement?"
+44,"Why did the attacker's attempts to steal assets from the project's BNB Chain implementation fail, despite upgrading the contract to a malicious version?"
+44,"What assets were successfully stolen by the attacker on the Stack BTC layer-2 chain, and what was their approximate value at the time of theft?"
+44,Who was the apparent whitehat hacker who intervened to recover funds?
+44,"What attempts by the exploiter to steal assets on the Ethereum blockchain were unsuccessful, and what was the estimated value of those assets?"
+45,Which specific vulnerability in the Sonne Finance smart contracts was exploited for this attack?
+45,Why was Sonne Finance's contract paused on the Optimism Ethereum layer-2 chain following the hack?
+45,Why does the record mention that Radiant Capital and Rari have also had issues with known vulnerabilities in their code?
+45,Why does the record suggest that some of the code used by Sonne Finance is reused from Compound Finance project?
+45,What is the total amount of funds stolen from Sonne Finance through the hack and exploitation of its smart contracts?
+46,How much of the recovered funds were actually given back by the contributor to the redemption fund?
+46,When and how much money did this Cypher contributor steal from the recovery fund?
+46,What was the identity of the core Cypher contributor who confessed to stealing funds?
+46,What was the impact user's response to the theft and redistribution of the recovered funds?
+46,Why did the contributor confess to the thefts according to his public statement?
+47,In what ways were the fake tokens bridged from Fantom to Ethereum and Polygon?
+47,How did the exploiter manage to sell the fraudulent tokens as authentic ones?
+47,What wasthe mechanism used by the exploiter to drain $1.27 million from GNUS.ai's liquidity pools?
+47,"Where do unused cycles on various computing devices get utilized in the context of the GNUS.ai project, and what role does cryptocurrency play?"
+47,How was the exploiter able to create a fake version of the GNUS token on the Fantom blockchain?
+48,"By creating a new wallet address with identical start and/or ending character strings to addresses used by the victim, and spamming the victim with transactions from that similar address, what consequence did they aim to achieve?"
+48,"Who was the victim in the $72.7 million wallet theft, and what type of Ethereum wallet were they using?"
+48,"What is the tactic known as that takes advantage of crypto traders' tendencies to copy and paste wallet addresses, and how does it function?"
+48,How did the scammer manage to get the victims to incorrectly copy the spoofed address for future transfers?
+48,"What was the agreement between the victim and the exploiter about the stolen funds, and what portion of the total amount did the exploiter retain as a 'bounty'?"
+49,In what tokens were the funds stolen during the second attack on Pike Finance's smart contracts?
+49,Why did the patching attempt by Pike Finance's team introduce new vulnerabilities in their smart contracts during the second attack?
+49,Who are the key backers of Pike Finance?
+49,What measures has Pike Finance promised to ensure users are made whole following the exploits?
+49,What was the nature of the vulnerability exploited in the first attack on Pike Finance's smart contracts?
+50,How long after the initial hack was Rain's 'security incident' acknowledged publicly?
+50,What were the suspicious outflows noticed across wallets on multiple blockchains associated with?
+50,"Who was responsible for the hack on Rain cryptocurrency exchange in April 29, 2024?"
+50,In what way did the Rain Group cover any potential losses resulting from this incident?
+50,Were customer funds directly affected by the hack on Rain cryptocurrency exchange?
+51,What was the nature of the cryptocurrency scam that Jay Mazini ran?
+51,Who were the primary victims of Mazini's cryptocurrency scam and where was it based?
+51,How did Jay Mazini use doctored images in his cryptocurrency scam?
+51,What was the total amount of money scammed by Mazini's cryptocurrency scam?
+51,What other criminal activities was Jay Mazini involved in that contributed to his prison sentence?
+52,"Were any steps provided for the person who performed the exploit to get in touch with Hedgey Finance for discussion, and has there been a response from them yet?"
+52,"In which blockchain networks did the exploit occur, and what were the respective amounts stolen from each network (Arbitrum layer-2 and Ethereum mainnet)?"
+52,"Did Hedgey Finance confirm the exploit, and if so, how did they respond on-chain?"
+52,What are some potential strategies or security measures that could have prevented this flash loan attack on Hedgey Finance?
+52,Who was the target of the flash loan attack on Hedgey Finance that resulted in a loss of approximately $44.7 million?
+53,"Who was responsible for the $2 million hack on the Grand Base platform, and what method did they use to compromise the deployer wallet?"
+53,What were the specific assets (gAssets) that were affected by this hack or rug pull?
+53,"In total, how many Ethereum (ETH) were taken from the Grand Base project during this incident?"
+53,What was the impact of this hack on the value of gAssets and the overall ecosystem of Grand Base?
+53,Were any steps taken by the Grand Base team to recover the stolen funds or prevent similar incidents in the future?
+54,What is the name of the third-party service exploited in this hack?
+54,When did this latest hack occur on FixedFloat exchange?
+54,Who or what is being blamed for the exploitation in this latest hack?
+54,Who was the target of the recent hack on FixedFloat exchange?
+54,How much was stolen in this latest hack on FixedFloat exchange?
+55,"What was Solareum's response to the accusations on Twitter after their project closure and website deletion?, Did they address the allegations of theft?"
+55,"Has Solareum been accused of any negligence or complicity in the thefts by users?, Specifically, were there criticisms leveled at them for failing to investigate the hack or for being potentially responsible themselves?"
+55,"Did Solareum speculate a possible cause for the wallet draining incidents on their platform?, More specifically, did they suggest that compromised Telegram bot tokens might have allowed attackers to obtain private keys from message history?"
+55,Did the Solana ecosystem face a spate of drained wallets between approximately March 2024 and the date this record was written?
+55,"Were any trading bots identified as potentially involved in the thefts within the Solana ecosystem during that time period?, Specifically, were there connections to the use of Solareum, BonkBot or other trading bots?"
+56,How did the attacker take advantage of a flaw in Prisma Finance's smart contracts?
+56,"Why did the first attacker, who stole the bulk of the assets, transfer the funds to Tornado Cash?"
+56,How did the attacked party respond to the attacker's criticism and demands for an online press conference?
+56,What was the total amount of assets stolen in the Prisma Finance hack?
+56,What were the demands made by the first attacker apart from returning the funds after the hack?
+57,"As of the given date (March 26, 2024), have any details been confirmed regarding the alleged movement of funds and the accusations made towards John Kim?"
+57,Who are the co-founders of LENX and what roles do they play in the allegations regarding the $10 million rug pull?
+57,"What actions have been taken by the remaining LENX team in response to the stolen funds allegations, specifically towards freezing the receiving account at Binance?"
+57,"In what way is the LENX project connected to Frax Finance lending protocol, and does this connection potentially impact the investigation into the $10 million rug pull allegations?"
+57,"What was the nature of the massive withdrawals observed from LENX's treasury funds, and where were these funds transferred to?"
+58,Who was the perpetrator behind the $62.5 million hack on the Munchables crypto game?
+58,"Was the attacker convinced to return the funds, and if so, how did this happen?"
+58,What are the arguments for and against the proposal of forcibly rolling back the Blast layer-2 blockchain to 'undo' the hack?
+58,"Why does the Munchables crypto game, according to some, prioritize aspects of gaming over other facets of cryptocurrency ideology?"
+58,What evidence supports the claim that the theft was planned since deployment?
+59,What type of smart contract bug enabled the attacker to mint tokens in this hack?
+59,How many CGT governance tokens were minted as a result of this exploit?
+59,"What was the estimated loss to the project due to the exploit, and why is it different from the token's notional value?"
+59,What measures has Curio DAO announced in response to the theft?
+59,What was the name of the cryptocurrency project that experienced a $16 million exploit?
+60,"Who was responsible for draining tokens worth approximately $300,000 from holders of the rug-pulled Lucky Star Currency in March 2024?"
+60,How did the malicious smart contract manage to drain tokens from those who still held them in the Lucky Star Currency project in March 2024?
+60,What measures could have been taken to prevent the subsequent rug-pull of the Lucky Star Currency project in March 2024?
+60,Why did the ownership of the Lucky Star Currency project get transferred to a malicious smart contract in March 2024?
+60,Is there any ongoing investigation or legal action regarding the second rug-pull of the Lucky Star Currency project in March 2024?
+61,"In the exploit of Super Sushi Samurai, how did the attacker take advantage of a vulnerability in its smart contract to drain funds from the project?"
+61,What was the name of the blockchain game that was exploited for $4.6 million and on which layer-2 blockchain this occurred?
+61,"What action did the attacker take immediately after the theft that led to the return of the stolen funds, and how were they characterized within the project?"
+61,"After returning the funds, what was the subsequent destiny of the $SSS token post exploit, as suggested in the summary?"
+61,What additional rewards or role did the whitehat hacker receive from the Super Sushi Samurai project team after their intervention?
+62,Which exchanges were the stolen tokens transferred through?
+62,How much Ether and AirDAO tokens were drained in this exploit?
+62,What cryptocurrency was exploited through social engineering in March 2024?
+62,Has any action been taken or announced by AirDAO regarding this exploit?
+62,What method was used by the attacker to access the AirDAO project's liquidity pool?
+63,When did the vulnerability in the smart contract that was exploited originate?
+63,Which network was used by contemporary users of the exchange prior to the exploit?
+63,What type of bug was discovered which allowed the attacker to drain user funds?
+63,How were the stolen funds concealed after the exploit?
+63,What was the name of the exploited cryptocurrency exchange?
+64,What tokens were stolen from Wilder World and how much was the total value of these tokens?
+64,How did the attacker hide the stolen funds? What cryptocurrency tumbler was used?
+64,Did Wilder World provide any reason for the contractor's access to the project deployer's private key?
+64,"Who was responsible for the theft in Wilder World on March 16, 2024?"
+64,"Based on the information provided, what evidence suggests that the thief had 'specialized knowledge of ZERO's internal security systems'"
+65,What was written by the real Ansem in his tweet that might have led some followers into thinking he was launching a new memecoin?
+65,How did the impersonator convince people to invest money in a fake Solana memecoin?
+65,Who impersonated the influential crypto trader Ansem on Twitter?
+65,How were the wallets of the victims drained during the scam?
+65,"What was the total amount of money lost in this scam, and how much did one individual lose specifically?"
+66,What is the suspicion surrounding this hack (inside job or external attack)?
+66,"Were any security safeguards implemented by Remilia after the $1 million loss incident in September 2023? If yes, what were they?"
+66,"What assets were stolen during the hack of 'Charlotte Fang', the leader of Remilia project?"
+66,"How was the private keys stored in the multi-signature model for Remilia's treasury, according to the report?"
+66,What is the mechanism of attack suggested by 'Charlotte Fang' for this incident?
+67,Is the FBI actively investigating the March 15 security incident at NFPrompt?
+67,What centralized exchanges have been contacted by NFPrompt to freeze stolen funds?
+67,Are there any specific methods or tools that the hackers used in this attack against NFPrompt?
+67,"How much, if any, funds were taken during the security incident at NFPrompt?"
+67,What measures has NFPrompt taken to address this security breach?
+68,Who perpetrated the exploit on Mozaic Fi and what method did they use to gain access to the private key?
+68,Why were around 90% of the stolen funds moved to the MEXC exchange and how did it help the situation?
+68,Was any action taken against the rogue developer responsible for the attack?
+68,Is there any potential recovery or mitigation plan for Mozaic Fi in response to this exploit?
+68,What was the significance of a simultaneous large sale of the Mozaic token during the incident?
+69,On what date did this exploit happen on the MOBOX lending platform?
+69,Which token was used for the drained funds in the reported hack on the MOBOX platform?
+69,"What was the name of the decentralized lending platform that experienced a hack on March 14, 2024?"
+69,What specific functions or features within the MOBOX platform were involved in this exploit?
+69,"How did the attacker exploit the MOBOX platform to drain approximately $750,000 in USDT?"
+70,Which crypto exchange were the seized funds stored in?
+70,In which district was the action filed?
+70,Who filed the civil forfeiture action to seize the cryptocurrency?
+70,"How many American victims have been identified, and from how many of these victims were funds transferred?"
+70,What is the approximate total value of the seized cryptocurrency?
+71,How did the attacker gain access to increase allowance permissions on the victim's ETH wallet?
+71,What was the name of the liquid staking protocol that the victim was using?
+71,What was the value (in USD) of the victim's remaining balance in their wallet after the phishing scam?
+71,What type of transaction allowed the attacker to siphon funds from the wallet?
+71,How much Ether (ETH) did the attacker manage to siphon from the victim's wallet?
+72,What is the deadline for the threatened release of the stolen data by Incognito Market?
+72,Approximately how much money did Incognito Market supposedly exit scam from its users?
+72,What was the timeframe in which this incident occurred?
+72,What is the nature of the incident involving Incognito Market (double scam and extortion)?
+72,"Did Incognito Market keep their promise to 'auto-encrypt' messages between buyers and sellers, and auto-delete them after an expiry date as claimed?"
+73,What type of cryptocurrency tokens were drained from the account of the victim with the largest loss in the February 2024 Twitter phishing incidents?
+73,What was the total amount of money stolen via Twitter phishing in February 2024?
+73,What happened to the tokens drained from the account of the victim with the largest loss in the February 2024 Twitter phishing incidents?
+73,Who was the victim with the largest individual loss in the February 2024 Twitter phishing incidents?
+73,How many victims were there who lost money due to Twitter phishing in February 2024?
+74,"Despite legal issues in the past, what average returns has Luc Schiltz's company, Crypto4Winners, claimed to have earned since its inception in 2019?"
+74,"Why did Crypto4Winners pause withdrawals, and when were they last re-enabled?"
+74,What specific information or data suggests that there has been tampering with the assets and historical data of Crypto4Winners with a high degree of sophistication?
+74,Who is the suspect alleged to have committed fraudulent acts at Crypto4Winners?
+74,Has Crypto4Winners officially disclosed the amount that was allegedly stolen in this incident?
+75,Why did the project team offer a 'bounty' following the hack?
+75,What was the nature of the hack on the Unizen platform?
+75,How did the attacker exploit a vulnerability to initiate the hack?
+75,What is the status of the remaining funds at the time this information was published?
+75,Which cryptocurrency was affected in the $2.1 million loss?
+76,"What type of attack was used in the WOOFi hack on March 5, 2024?"
+76,What was the offer made by the WOOFi project team to the attacker who exploited their system?
+76,Why did the blockchain security firms take fifteen minutes to pause the project's smart contract after detecting the attack?
+76,How did the attacker manipulate the price of $WOO in the WOOFi DEX implementation on Arbitrum network?
+76,What led the WOOFi project team to believe that they had a strong lead in revealing the identity of the exploiter?
+77,What technique was used by the attacker for theWallet drainer service phishing?
+77,What action was taken in response to this incident within the community governance of The AI Protocol?
+77,Did the burning of stolen tokens prevent the attacker from cashing out the funds?
+77,What was the value of the tokens stolen in this incident?
+77,Is the hack or scam incident involved here related to The AI Protocol?
+78,Has the Shido team issued a bounty for this exploit?
+78,"In what form were the stolen tokens converted (e.g., ETH, BTC)?"
+78,What was the price per token before and after the exploit occurred?
+78,How many Shido tokens were stolen as a result of the exploit?
+78,What was the total value of the Shido tokens stolen in this exploit?
+79,"Why can't the Seneca team utilize the Pausable module function to stop the thefts, given that their smart contract inherits this module?"
+79,"Is there a way for individual users to protect themselves from these thefts due to the bug in Seneca Protocol's smart contract? If so, how should they do it?"
+79,Why is it difficult for the Seneca team to halt the malfunctioning code related to the bug in their smart contract?
+79,"What has been stolen from users due to this bug in Seneca Protocol's smart contract as of February 28, 2024?"
+79,Is the issue outlined in the provided report about a bug in Seneca Protocol's smart contract on Ethereum and Arbitrum?
+80,What was the nature of the hack on Serenity Shield?
+80,"Are there any links between the Serenity Shield hack and previous incidents such as the exploits at OKX (December 2023) and Concentric (January 2024)? If so, could these vulnerabilities be exploited again in the future?"
+80,What was the original price and final selling price of the stolen SERSH tokens?
+80,"Why is a 15% bounty being offered to the hacker in exchange for returning the stolen funds, and why is there no threat of legal action?"
+80,"Who stole the tokens from the MetaMask wallet belonging to Serenity Shield, and how did they manage to do so?"
+81,"What was the purpose of the Foundation, according to the clarification on Perry's other social media accounts?"
+81,In what way did the scammers claim the donations would be used?
+81,How did the true Matthew Perry Foundation clarify their involvement and describe the operation as fraudulent?
+81,Why did the Foundation refer to the Twitter posts and crypto addresses shared in them as 'fraudulent'?
+81,What crypto addresses were used in the scam that compromised Matthew Perry's Twitter account?
+82,How did those who fell for the phishing link get redirected to a fake MicroStrategy website?
+82,"Why was the stolen amount ($440,000) concentrated mainly in one wallet?"
+82,Who executed the hack on MicroStrategy's Twitter account?
+82,What was the purpose of the hack and what action led to the unauthorized access?
+82,"What wallet or wallets were primarily affected by this hack, and what tokens were drained from them?"
+83,What type of smart contract did the incorrectly linked token on PancakeSwap represent?
+83,What was the name of the web3 messaging project that recently launched a token with an error in its link?
+83,"What action did the project take after being made aware of the error, and what did they promise regarding the losses caused?"
+83,Who shared their experience of losing funds due to the erroneous link provided by the project in question?
+83,In what cryptocurrency exchange was the incorrect token linked by the project in question?
+84,What information are the private notes associated with deposits leaked to and what is their function in Tornado Cash?
+84,What specific code change resulted in the inclusion of malicious JavaScript?
+84,How can funds deposited into Tornado Cash be recovered given that the private notes associated with those deposits have been leaked?
+84,Who reported the code exploit in Tornado Cash and when was this report made?
+84,"Has Tornado Cash been affected by a similar exploit or hostile takeover previously, and if so, when did this occur?"
+85,has Tether frozen any assets belonging to these romance scammers in the past and can you provide examples?
+85,Which cryptocurrency is predominantly used by these romance scam groups according to the report?
+85,Approximately how many trafficked workers operate the scam from the 'self-contained city'?
+85,Where is the location of the compound where the majority of the scammers are believed to be operating from?
+85,What is the total amount of money scammed by the romance scam operation in Myanmar within two years?
+86,How much ETH was drained from the Blueberry defi leverage project in total?
+86,How much of the drained ETH was able to be returned to the project due to c0ffeebabe.eth's intervention?
+86,What is the current status of the Blueberry Protocol and their plans for repaying users the lost funds?
+86,Who was the attacker who attempted to exploit the Blueberry Protocol's lending contract bug?
+86,"What is the identity of c0ffeebabe.eth, the MEV bot operator who front-ran the exploit and returned funds to the project?"
+87,How much Ether (ETH) did the attacker steal in the DeezNutz_404 hack?
+87,What was the bug in DeezNutz_404's code that allowed an attacker to mint infinite tokens?
+87,"What project name, when linked with such a large theft, would make the perpetrator's action noticeable to their friends or associates?"
+87,Why did the bug in DeezNutz_404's code make it easy for an attacker to steal tokens and funds?
+87,Approximately how much USD value was stolen during the DeezNutz_404 hack?
+88,"What was the total amount of cryptocurrency stolen from Jeff 'Jihoz' Zirlin in the hack on February 22, 2024?"
+88,Which cryptocurrency mixer was reportedly used to launder the stolen funds in this hack?
+88,What type of event is this incident categorized as in our records (Hack or Scam)?
+88,"Which blockchain game co-founder suffered a $9.5 million loss due to the February 22, 2024 hack?"
+88,"Did the Ronin Bridge get hacked, or was it merely a personal wallet compromise as reported?"
+89,What was the total loss caused by the hack on FixedFloat exchange in BTC and ETH?
+89,Is the non-custodial nature of FixedFloat beneficial in these types of incidents?
+89,Does this incident impact any user funds in FixedFloat or have there been reported issues on social media regarding frozen transactions and missing funds?
+89,Why did FixedFloat initially report 'minor technical problems' before acknowledging a hack?
+89,What is the significance of FixedFloat being a decentralized cryptocurrency exchange without user registration or Know Your Customer rules?
+90,What percentage did the price of BEAM drop after the attack and what was the approximate timing of this drop?
+90,Which blockchain network is BEAM associated with?
+90,Who was the victim of the phishing attack and what tokens were stolen?
+90,What was the value of the stolen BEAM tokens at the time of theft?
+90,What was the ultimate sale price of the stolen BEAM tokens and in which cryptocurrency?
+91,"What blockchains (Ethereum and BNB Chain) were affected by this exploit, and how was the funds bridged or exchanged to ETH?"
+91,"What action was taken by Duelbits after discovering the exploit, and at what point were the funds drained from their wallet?"
+91,"Is it known if the stolen funds have been traced or recovered since the incident occurred on February 13, 2024?"
+91,How did the hacker gain access to the Duelbits wallet?
+91,Were any specific vulnerabilities in the Duelbits casino and sports betting website identified as a result of this hack?
+92,"What was the naive calculated value for the exploit, as reported in some media outlets?"
+92,How does the total claimed market cap of $PLA token compare to the amount minted during the attack?
+92,Why did reputable outlets like Bleeping Computer initially report an inaccurate value of the exploited tokens?
+92,What was the total amount minted by the attacker on February 9 and February 12 on PlayDapp?
+92,Did PlayDapp offer a bounty to the attacker through on-chain messages and was that offer accepted?
+93,Who were the top seven victims in the Twitter phishing schemes of January 2024?
+93,How much money did the top victim lose specifically in these phishing schemes?
+93,What was the collective loss of the top seven victims due to these phishing schemes?
+93,What was the total amount lost by all victims due to these phishing schemes?
+93,How many victims were affected by these various phishing schemes on Twitter in January 2024?
+94,"Given fears over a potential threat to Ripple and questions regarding Larsen's wallets vs Ripple project wallets, how was XRP affected in terms of percentage change on the news?"
+94,"Did Larsen confirm or deny if the theft posed a threat to Ripple itself, and what was his response to reassure people about the safety of Ripple wallets?"
+94,Was there a significant change in the price of XRP due to the theft incident mentioned in the news report?
+94,"Who initially identified the source of funds as belonging to Ripple itself, and later who claimed that the funds came from Larsen's personal wallets instead?"
+94,What was the total value of XRP stolen from Chris Larsen as stated in the news?
+95,"Which stablecoin was affected by the Abracadabra exploit incident on January 30, 2024?"
+95,"What was the extent of depegging experienced by the affected stablecoin after the Abracadabra exploit on January 30, 2024?"
+95,Did any similar incidents occur previously regarding the Terra collapse in June 2022?
+95,Was this the first time the Abracadabra protocol's smart contracts were exploited?
+95,What is the date of the Abracadabra exploit that led to a loss of $6.5 million?
+96,What specific charges has Sam Lee faced from the US Attorneys and the SEC?
+96,Who is 'Bitcoin Rodney' and which charge did they recently face in relation to HyperVerse?
+96,Who has been charged in relation to the HyperVerse cryptocurrency investment scheme?
+96,What are the estimated amounts that HyperVerse has defrauded its victims of according to different sources?
+96,"Which individual, besides Sam Lee, has also been accused by the SEC and what were the charges against her?"
+97,How much was estimated to be stolen during the flash loan attack on Goledo Finance? 
+97,Who contacted whom after the hack indicating a willingness to negotiate?
+97,What gesture did Goledo Finance make towards the attacker after the hack was disclosed?
+97,"What was the name of the Aave-based lending protocol that was hacked on January 28, 2024?"
+97,What type of attack was used to exploit the specified Aave-based lending protocol? 
+98,How many SSX tokens were actually circulating before the hack?
+98,What was the total value of tokens stolen during the hack on Somesing crypto platform?
+98,What was the approximate price of a single SSX token prior to the hack?
+98,"Did the stolen tokens consist only of the circulating supply, or were undistributed tokens also targeted?"
+98,Approximately what percentage of the total supply of SSX tokens were stolen in the hack?
+99,Why did the price of $WSM drop around 35% following the attack?
+99,How much was the notional value of the tokens siphoned during the attack?
+99,What measures is WallStreetMemes taking to replace the stolen tokens and renew the liquidity pool?
+99,What was the nature of the vulnerability exploited in the WallStreetMemes ($WSM) staking contract?
+99,Who were the attackers that siphoned 769 million $WSM from the contract?
+100,What types of cryptocurrencies were stolen and how has their actual liquid value been estimated?
+100,What was the method used in the MailerLite hack to gain access to accounts on the platform?
+100,"How have the attackers moved the stolen funds, as mentioned in the record?"
+100,Which companies were involved in the phishing scam and what did the phishing emails claim to offer?
+100,"What is the total reported theft and why does it differ significantly from the estimated $700,000 in liquid value?"
+101,How and where was the vulnerability in Gamee (GMEE) token's source code discovered that allowed for the transfer of 600 million GMEE tokens?
+101,What exact vulnerability was exploited in the Gamee blockchain-based gaming platform's GMEE token source code that resulted in a transfer of 600 million tokens?
+101,What subsequent actions were taken by Animoca Brands regarding the stolen GMEE tokens and potential recovery efforts or compensation for affected users?
+101,"How did the attacker manage to plunge the GMEE token value by around 60% following the theft, and what was the impact on its market price before and after the hack?"
+101,Who gained unauthorized access to the Gamee token's source code repository? And were they able to be identified or traced afterward?
+102,Who perpetrated the $1.8 million exploit on Concentric Finance?
+102,What type of attack was used in this exploit (provide details from the record)?
+102,"Were any identifiable connections found between this exploit and previous breaches, such as the $2.7 million OKX DEX theft?"
+102,What was the total value of tokens drained from Concentric Finance project vaults?
+102,What action did Concentric Finance urge users to take after the exploitation to avoid further losses?
+103,Who are some of the individuals who were allegedly defrauded by Debiex and how much was stolen from each of them?
+103,What kind of relationship do Debiex employees establish with their victims before defrauding them?
+103,How does Debiex mislead its victims about handling their funds for trading purposes?
+103,Who or what entity is the CFTC filing a complaint against?
+103,"Where is Debiex, the subject of the complaint, located?"
+104,Why did Regalado claim he needed to invest in a separate coin before creating INDXcoin?
+104,In what ways did Regalado and his wife spend the money received from selling INDXcoin to their followers?
+104,"Which state regulatory agency is suing the Colorado pastor and his wife, and what are the charges leveled against them?"
+104,What was the name of the cryptocurrency that the Colorado pastor was selling to his followers?
+104,What did Regalado claim God told them about using the funds for 'widows and orphans'?
+105,What were the specific 'insecure practices' that various parties warned Hector Network about before this exploit occurred?
+105,Who was able to exploit the smart contract intended for distributing payouts in Hector Network's token holders and how were the tokens swapped from USDC to ETH?
+105,Has a statement regarding the theft been made by Hector Network's team or the involved law firm yet?
+105,Why was there a difference between the reported loss of $8 million in the Multichain disaster and the total dwindled project treasury of around $16 million according to angry investors?
+105,"When did the theft occur, and what is the exact amount that disappeared from Hector Network's treasury after this incident?"
+106,Which system within the Socket cross-chain infrastructure protocol was exploited in this attack?
+106,"As of January 23, what amount of the stolen funds had been recovered?"
+106,"How many victims were affected in the Socket service hack, and how much was stolen from them in total?"
+106,What was the name of the hacked cryptocurrency cross-chain infrastructure protocol?
+106,What was the maximum single wallet loss due to this hack?
+107,Which specific bitcoin ETFs were falsely announced for approval via the hacked SEC Twitter account?
+107,"What type of graphic, according to the description, accompanied the fake announcement on the hacked SEC Twitter account?"
+107,"Who hacked the SEC Twitter account on January 9, 2024?"
+107,Who does the record attribute the fake quote from in the graphic shown on the hacked SEC Twitter account?
+107,What was the approximate price range at which bitcoin spiked and dipped due to the false news about the approved bitcoin ETFs?
+108,Who were the wallets that received funds from the alleged hack of Narwhal linked to?
+108,Have there been any regulatory actions or investigations initiated against the Narwhal team following the incident?
+108,Did CertiK find any evidence suggesting insider involvement in the 'hacker attack' on Narwhal?
+108,Were there any red flags or suspicious activities prior to the launch of the Narwhal project?
+108,Was the 'hacker attack' on Narwhal indeed a rug pull?
+109,What group has been identified as a prolific perpetrator of cryptocurrency thefts?
+109,When did the previous hack on CoinsPaid occur and how much was stolen then?
+109,Who does CoinsPaid suspect as being behind the hack in July 2023?
+109,Has there been more than one incident of hacking or scam at CoinsPaid in the past six months?
+109,What was the total value of tokens stolen in the recent hack on CoinsPaid?
+110,Does CertiK have any responsibility in reimbursing the victims who lost their assets due to the hack?
+110,What was the malicious link that was used to take over the CertiK Twitter account?
+110,Who was responsible for the hacking of the CertiK Twitter account?
+110,Did CertiK admit to being compromised by a phishing attack?
+110,"Why did some of the CertiK's 340,000+ followers get drained of their wallets via a link from the hacked Twitter account?"
+111,"Have Gamma contacted law enforcement about the exploit and if so, which authorities have been notified?"
+111,Is there any ongoing negotiation with the attacker to return some of the assets that were stolen during the exploit?
+111,"When and what Arbitrum layer-2 projects were targeted in the Gamma Strategies exploit on January 4, 2024?"
+111,What recovery percentage is being promised by Gamma for different categories of users affected by the exploit?
+111,How did the attacker manipulate the price of assets to steal almost $6.2 million from the Gamma Strategies vaults?
+112,What action did Radiant Capital reportedly attempt after the hack (according to information from the record)?
+112,How long did it take for the attacker to act in this instance as per report?
+112,"Was the lending protocol built on a specific layer-2 network mentioned in the summary? If so, which one?"
+112,Does the exploit rely on pre existing code vulnerability? Which projects are vulnerable if not properly configured according to the record?
+112,What cryptocurrency was hacked and for how much?
+113,Why were users' wallets drained when they authorized the transaction from the fake airdrop link?
+113,"What was the origin of the phishing link that led to Bill Lou's scam, and how did it mimic a legitimate project?"
+113,"Given the vulnerability of even experts in the crypto field like Bill Lou, what measures can be taken to ensure a higher level of security and confidence in the crypto space?"
+113,What can other cryptocurrency users learn from this incident about falling for phishing links and avoiding potential scams like the one that affected Bill Lou?
+113,"How was Bill Lou, a wallet security startup founder, scammed despite his expertise in crypto wallets?"
+114,Who made off with the funds obtained from the Orbit Bridge exploit?
+114,"What digital assets were stolen in the Orbit Bridge hack on December 31, 2023?"
+114,"What actions has Orbit taken following the hack and exploit, including any communication with the attacker or announcements on their official Twitter account?"
+114,Which law enforcement agencies is Orbit working with in response to the Orbit Bridge hack?
+114,How much was drained from the Orbit Chain's Total Value Locked (TVL) due to this attack?
+115,What strategies does the Pink Drainer group employ to target and attract potential victims towards malicious activities?
+115,"What is the current price of LINK tokens that were stolen in this incident, and how many LINK tokens were drained from the wallet?"
+115,"In what context was the Twitter account of Compound Finance compromised, and did it attempt to lure followers into authorizing malicious activities similar to the described incident?"
+115,Who perpetrated the hack that resulted in draining approximately $4.4 million worth of LINK tokens from a wallet?
+115,Were the actions of the Pink Drainer group directly responsible for this specific phishing attack on the wallet or merely indicative of their methodologies?
+116,How did the attacker manipulate an oracle to drain the liquidity pool for over a week?
+116,Why was the attack on the Levana Protocol not noticed until the network became congested?
+116,"What was the total amount drained from the Levana Protocol's liquidity pool, and how did it represent a percentage of the overall pool?"
+116,What actions were taken by the Levana team after discovering the ongoing hack?
+116,Who conducted the $1.1 million hack on the Levana Protocol?
+117,What is their plan concerning restoring wallet balances to their previous state?
+117,"Why did Telcoin take their app offline during the investigation of the hack, as mentioned in the report?"
+117,"Was the contract used by Telcoin audited, and if so, what was not included in the audit scope, according to CertiK?"
+117,Did Telcoin provide any information regarding making up the deficit caused by the theft of $1.25 million?
+117,What was the token associated with the Telcoin remittances project and what happened to its price after an exploiter stole $1.25 million?
+118,What suspicions does Catalyx have regarding the security breach on their platform?
+118,"Which securities commission does Catalyx belong to, as indicated by the emergency order?"
+118,Did Catalyx disclose the amount stolen in the press release on December 28?
+118,What is the date when Catalyx exchange announced the discovery of a security breach?
+118,Who issued the emergency order to freeze trading and withdrawals on Catalyx cryptocurrency exchange?
+119,What techniques are being employed by those using this wallet drainer to make their ads appear non-malicious on Twitter and Google Ads platforms?
+119,What is the categorization of this activity according to the provided summary?
+119,What platforms have been used to target and lure victims towards this wallet drainer tool?
+119,How much cryptocurrency has been stolen from victims using this tool since December 2023?
+119,"Which tool has drained approximately $60 million in cryptocurrency assets from more than 63,000 victims over the past nine months?"
+120,Which token (approximately how many) was siphoned from the liquidity pool during the Aurory bridge hack?
+120,What was the result of the audit conducted on SyncSpace before the incident?
+120,"What action was taken by the Aurory team following the hack, as mentioned in the report?"
+120,Approximately what was the initial and current amount of liquidity in the pool post-hack?
+120,"What platform was hacked for over $1 million on December 17, 2023?"
+121,Who did the 'residual garbage' attacker claim was responsible for initiating the original attack on NFT Trader?
+121,Who was the attacker who stole $3 million worth of NFTs through exploiting old smart contracts on NFT Trader?
+121,How much ransom was paid and to whom for returning 54 NFTs (36 Bored Apes and 18 Mutant Apes) to the victims?
+121,What was the specific way by which community members helped shut down the vulnerable contract in the NFT Trader platform?
+121,"Did the attacker who stole the NFTs return all the stolen items to the victims and if so, under what conditions?"
+122,How was the hacker able to gain access to Ledger's source code management tool and push out malicious code?
+122,"Is it safe to interact with any decentralized applications (dApps) currently, given the supply chain attack on Ledger's connector application?"
+122,Which crypto applications were affected by the supply chain attack on Ledger's connector application?
+122,"What specific action did the malicious code in the updated Ledger release perform, resulting in draining wallets as users connect them?"
+122,What is the estimated amount of cryptocurrency that has been drained from multiple users so far due to this attack?
+123,"How many victims are speculated to be involved in this scam, though it's not clear from the provided record?"
+123,"What is the nature of the transactions that were reportedly involved in this scam, considering there were at least 284 such transactions?"
+123,What legal tag is associated with this incident?
+123,What are the shell companies and various bank accounts involved in laundering money for this scam?
+123,Who were the four individuals charged in connection with the $80 million 'pig butchering' cryptocurrency scam?
+124,Which countries had issued warnings about the HyperVerse project?
+124,Who are the identified operators of the HyperVerse project?
+124,Which other investment platforms are associated with Sam Lee who have been targeted for cease and desist letters?
+124,Were any legal actions taken against Sam Lee and Zijing 'Ryan' Xu concerning the HyperVerse project?
+124,"What was the nature of HyperVerse project, as suggested by the Hungarian central bank?"
+125,What specific activities did the fraudsters fund using the stolen funds?
+125,"Who were the individuals charged with wire fraud, money laundering, and obstruction of justice?"
+125,Can you provide details about the fake investigative agency used by the fraudsters to deceive victims?
+125,What was the nature of the fraudster's scam as described in the article?
+125,Are there any laws named in this article that have been violated by the accused?
+126,How did the attacker gain administrative control of the OKX DEX smart contract?
+126,In what way did the attacker exploit the smart contract to transfer tokens to themselves?
+126,Has any legal action been announced to be taken against the exploiter responsible for the OKX DEX hack?
+126,Was it confirmed that OKX would reimburse the losses as a result of this hack?
+126,"What was the total amount stolen during the OKX DEX hack on December 12, 2023?"
+127,"Why was the hacker observed spending millions on Magic: The Gathering items, particularly overpaying by 5-10%?"
+127,Is it possible that the hacker is a collector of Magic: The Gathering cards and not just a creative money launderer?
+127,To whom did the funds from the Uranium Finance hack ultimately lead?
+127,What is the broker of Magic: The Gathering in the United States suspected to be doing with the hacker's funds?
+127,How does the sale of these overpriced Magic: The Gathering items help in further obfuscating the source of the funds?
+128,Why was the promised project continually delayed according to the details provided?
+128,"What did Robb promise to do with the funds he solicited, but never intended to carry out?"
+128,Who was 'pokerbrat2019' in this hack or scam incident?
+128,What is the real name of the individual who scammed 11 people out of $1.2 million in December 2023?
+128,How much money was Robb convicted of stealing in a previous case back in 2002?
+129,What was the total amount stolen from at least 21 victims in the past four months by this attacker based on ScamSniffer's research?
+129,Are there any known precautions or countermeasures that can be taken by users of the (not so) Safe Wallet to protect themselves from address poisoning attacks?
+129,Were there any previous instances of address poisoning attacks reported on the (not so) Safe Wallet or Florence Finance before these incidents?
+129,Who was behind the address poisoning attack on both the (not so) Safe Wallet and Florence Finance real-world lending protocol?
+129,How much has been stolen in the past week from users of the (not so) Safe Wallet due to an address poisoning attack?
+130,Are there any identified suspects or signs pointing towards the perpetrators of the address poisoning attack on Florence Finance?
+130,"Is it mentioned in the report that Florence Finance has publicly acknowledged the theft? If not, do we know if they made any official statements about this incident?"
+130,How can I stay informed about similar incidents in the future and potential ways to protect my investments from such attacks?
+130,What is the name of the cryptocurrency exchange or protocol where the address poisoning attack occurred?
+130,"How much money was stolen, in what stablecoin (USDC), and on which specific date according to the report?"
+131,"In what currency was the stated amount the platform stole from its customers equivalent (e.g., USD or HKD)?"
+131,What is the name of the cryptocurrency platform that allegedly defrauded its customers?
+131,"Why were some customers able to withdraw funds initially, whereas others could not later on, according to the article?"
+131,When was Hounax added to the warning list by the Hong Kong Securities and Futures Commission?
+131,What social media strategy did the platform use to lure in customers?
+132,How did the attacker exploit the bug in KyberSwap to perform the hack?
+132,What were the demands of the hacker as represented by the 'Kyber Director' and what happened to the negotiated funds obtained through front-running bots?
+132,What was the initial TVL (Total Value Locked) of KyberSwap before the hack occurred?
+132,What was the response of the KyberSwap team after negotiations with the hacker and why did they offer a 10% bounty?
+132,What was the value of the assets stolen during the KyberSwap hack?
+133,"Did Justin Sun's Poloniex exchange also experience a hack this month? If so, approximately how much money was lost?"
+133,How did HTX respond to the hot wallet losses caused by the hack?
+133,Which date did the hack of HTX and Heco Chain occur?
+133,What is the reason behind the belief that the theft was enabled by a private key leak?
+133,What cryptocurrency exchange was hacked for $115 million?
+134,How did the attacker manipulate the market for the Yearn Finance token during the attack on dYdX?
+134,How did the attacker manage to target dYdX specifically in this incident?
+134,What flaw in dYdX's risk management did the attacker exploit to rack up losses?
+134,What percentage of the dYdX insurance fund was drained in this apparent attack?
+134,In what manner was the dYdX insurance fund forced to pay out as a result of the attack?
+135,Which system or data were unauthorizely accessed at Kronos Research?
+135,What are the possible reasons for the 'unauthorized access' incident at Kronos Research?
+135,Did Kronos Research confirm that a significant portion of their equity was affected by this incident?
+135,Can you provide details about the impact (loss) from the incident at Kronos Research?
+135,What was the nature of the incident at Kronos Research?
+136,"Why are third-party websites used for revoking wallet permissions potentially risky, and what can users do to protect themselves from such scams?"
+136,Who were the actors impersonated in this hack/scam and why were they targeted?
+136,What method or technique was used by the scammers to drain the wallets of victims?
+136,Which assets were stolen during this hack/scam and how much was stolen in total?
+136,"What service or platform was targeted in the hack/scam that occurred on November 14, 2023?"
+137,"Which specific asset was one victim reported to have lost almost 17,000 units of (at a value of ~$927,000) due to this drainer?"
+137,In what timeframe did this wallet drainer service begin its activities since May 2023?
+137,How many victims has this wallet drainer affected according to ScamSniffer in six months?
+137,What is the name of the wallet drainer service that has caused losses worth over $60 million?
+137,What functionality within the Ethereum network does this wallet drainer use to dodge security alerts in some crypto wallet software?
+138,"Based on your data, can you identify any other instances when wallets linked to Binance may have faced similar security breaches?"
+138,Why does the record mention that the crypto researcher zachxbt observed the transfer from the Binance deployer to the compromised wallet in 2019 as a significant detail?
+138,Who was the apparent attacker in the $27 million Tether stablecoin theft from a wallet linked to Binance?
+138,When and where did the compromised wallet receive funds prior to the hack (as suggestive of ties to Binance itself)?
+138,What strategy was employed by the attacker to evade attempts at freezing the stolen assets after conversion?
+139,What was the vulnerability found in the Raft Defi project that allowed the hacker to mint additional R stablecoin?
+139,"Why and where did the attacker lose approximately 1,570 ETH?"
+139,"What was the value of 1 ETH when approximately 4 ETH were spent by the hacker in the attack, leading to a loss?"
+139,What impact did this hack have on the price of Raft's R stablecoin after it lost its dollar peg?
+139,How much Raft's R stablecoin was minted using this exploit without any backing?
+140,What was the amount of ETH that was stolen from the Samudai DAO treasury?
+140,"Who compromised the multisignature wallets and the wallet belonging to Kushagra Agarwal in the Samudai treasury draining incident on November 10, 2023?"
+140,Did the attacker use Tornado Cash cryptocurrency mixer following the Samudai treasury drain incident?
+140,"Did Kushagra Agarwal attempt to negotiate with the attacker for the return of some or all of the stolen funds?, and if so, what was the proposed bounty?"
+140,"Has Samudai acknowledged the theft publicly, despite posted activities on Twitter since then?"
+141,Is there a time-constrained offer made by Justin Sun for returning the stolen funds and under what conditions?
+141,"What cryptocurrency exchange was hacked for more than $120 million on November 10, 2023?"
+141,"What steps is Justin Sun taking in response to the hack, including measures for potential fund recovery?"
+141,"How much loss did Poloniex suffer, according to the initial report following the hack incident?"
+141,Which assets were stolen from the hacked Poloniex exchange besides Bitcoin and Ethereum?
+142,What type (or category) of cryptocurrency was stolen during the incident?
+142,"Who was the victim of the hack on November 8, 2023?"
+142,What is the approximate value of Ether (ETH) stolen in the exploit?
+142,How were the stolen Ethereum (ETH) moved out from CoinSpot's hot wallet?
+142,Through which platforms/bridges were the stolen ETH transferred to Bitcoin?
+143,Describe how the attacker used a flash loan to manipulate the wETH/wBTC pool on Curve and cause the bot to purchase wBTC at an inflated price?
+143,What was the name of the exploited MEV bot and on what date was it discovered?
+143,How much Ethereum (ETH) and US dollars were obtained from this exploit?
+143,What vulnerability in the bot's code was exploited to make a profit?
+143,"What cryptocurrencies, wBTC and wETH, were involved in this MEV bot exploit?"
+144,Who was arrested in connection with the $300 million Indian crypto scam?
+144,Who is the alleged orchestrator of this fraud that has not been apprehended yet?
+144,Approximately how many government officials and police officers fell victim to this scam?
+144,"What cryptocurrency were the victims invited to invest in initially, and are there any other tokens mentioned as being part of this scam?"
+144,Since when did this crypto scam start?
+145,Who drained the Monero Community Crowdfunding System (CCS) wallet?
+145,What was the total amount (in XMR and USD) that was in the Monero CCS wallet before it got drained?
+145,Were any actions taken against the person responsible for draining the Monero CCS wallet?
+145,Approximately when did the Monero CCS wallet get drained and when was it discovered?
+145,"Who else besides 'Luigi' had access to the Monero CCS wallet, and what is their current status?"
+146,Who was the original attacker who discovered the bug and did they make any money?
+146,What was the name of the affected Defi protocol in this incident?
+146,What was the total value of assets represented in the TVL (Total Value Locked) of Hope Lend before the hack?
+146,"Were any funds recovered after the hack on Hope Lend? If yes, by whom?"
+146,How much Ether (ETH) was stolen from Hope Lend?
+147,"Was the halt in the project's bridge a direct response to the theft, or were there other factors involved?"
+147,"What impact did this incident have on the price of $EVER, and was the 20% drop directly related to the token theft?"
+147,Did the team provide any additional details about the stolen tokens beyond indicating it as 'a large number'?
+147,"What was the specific number of tokens stolen from the Everscale blockchain project on October 17, 2023?"
+147,"In what manner was the theft carried out (e.g., exploit of a known vulnerability, phishing attack)?"
+148,What was the total amount stolen in the Fantom Foundation hack?
+148,Is there any clarity yet on how the zero-day exploit in Google Chrome was leveraged in this incident?
+148,How much of this stolen amount belonged to the Fantom Foundation directly?
+148,"What is the suspected method or exploit used in the Fantom Foundation hack, according to Spreek and an admin on Fantom's Telegram channel?"
+148,Approximately how much did one individual employee lose in this hack?
+149,What technique are hackers employing on Binance's blockchain that allows them to store malicious code?
+149,How have hackers adapted their tactics to avoid takedowns in a web3 context?
+149,Why have attackers started to use Binance's blockchain for storing payloads instead of traditional webhosting services?
+149,In what way does the immutable nature of blockchains benefit hackers in this scheme?
+149,What specific information is the malware downloaded from compromised WordPress websites designed to harvest?
+150,What was the cumulative loss Platypus Finance suffered due to attacks from January to October 2023?
+150,"How much of the funds stolen in the latest hack of Platypus Finance were successfully recovered, and by what method?"
+150,"What was the flaw exploited by the latest hacker, which allowed Platypus Finance to recover funds?"
+150,"What agreement did Platypus Finance reach with the attacker that resulted in the recovery of all but $167,400 of the stolen funds?"
+150,In what month did Platypus Finance suffer a significant hack resulting in a loss of $8.5 million?
+151,Does the tag 'Hack or Scam' suggest a conclusion that has been directly confirmed in this reported case?
+151,What promise does the Black Hole Token project make on its website about its mechanism?
+151,On which blockchain is the Black Hole Token project built according to the provided record?
+151,What was the value of the apparent exploit for Black Hole Token as reported by PeckShield?
+151,Could this Black Hole Token incident be considered a rug pull instead of an exploit?
+152,Are there any preventive measures users can take to avoid similar scams in the future when investing in metaverse projects?
+152,How was the stolen money from the FinSoul scam moved through Tornado Cash?
+152,"What features were initially promised by the FinSoul metaverse gaming project, and what were some of the promised aspects that were apparently false or misleading?"
+152,What strategies did the FinSoul team use that were also employed in the Fintoch scam?
+152,Who is responsible for the $1.6 million FinSoul scam and are they related to the team behind the earlier $31 million Fintoch exit scam?
+153,How much in assets are estimated to have been lost as a result of the most recent 3Commas security breach?
+153,Has 3Commas disclosed how the security breach occurred in the latest incident?
+153,Were API keys compromised or leaked during this latest 3Commas security breach?
+153,"Is the October 2023 security breach the first one to affect 3Commas' reputation, and if not, could you provide details about the previous incident in October 2022?"
+153,What specific customer wallets were used to make unauthorized trades in the recent 3Commas security breach?
+154,What was the total amount of LSC tokens that were withdrawn from the contract by the creator?
+154,On which Chinese news and Q&A platforms was the Lucky Star Currency project heavily promoted?
+154,What tag in the record indicates that Lucky Star Currency is considered a hack or scam?
+154,"Who created the contract for Lucky Star Currency, and when was this discovered?"
+154,How were the withdrawn LSC tokens converted to fiat currency?
+155,What is the total value locked (TVL) of the Stars Arena project before and after the exploit mentioned?
+155,"What was the monetary amount that was drained from Stars Arena during the exploit on October 7, 2023?"
+155,What is the current status of the remaining funds from the Stars Arena exploit as mentioned in the given record?
+155,Who returned a portion of the funds drained during the Stars Arena exploit and how much was this amount?
+155,"Regarding the Stars Arena exploit, what was the role of Avalanche co-founder Emin Gün Sirer and the response his remarks received?"
+156,What actions did THORSwap take to prevent the attacker from laundering stolen assets?
+156,"What was the criticism faced by THORSwap in relation to this decision, and where does this criticism come from?"
+156,Why might some find THORSwap's decision to pause its web interface somewhat understandable amidst recent crackdowns on mixing services by certain jurisdictions?
+156,Who had been consulted by THORSwap in making this decision and what were their roles?
+156,Why did THORSwap take its web interface into maintenance mode?
+157,What is the source and date of the information about BigWhale's $1.5 million loss?
+157,"Besides legal measures, what other resources does BigWhale claim they have at their disposal to address this issue?"
+157,What statement did BigWhale make regarding legal liability for refunding investors' losses due to the incident?
+157,What specific action did BigWhale promise to take after the incident related to their stolen funds?
+157,Who was the affected stakeholder in this incident (from the hack or scam) at BigWhale project?
+158,How does the $191 million in possible losses from JPEX compare with the largest financial fraud case in Hong Kong's history?
+158,Are the individuals taken in for questioning likely to be central figures in the JPEX fraud case?
+158,"Who were among the eleven people taken in for questioning in relation to JPEX, and what is their role suspected to be?"
+158,What is the total amount of cryptocurrency losses reported to the police regarding JPEX exchange?
+158,Who are the leaders of the JPEX project accused of financial fraud?
+159,How did the exploitation of this bug lead to the suspension of Aptos transactions?
+159,"Was this incident a bug, hack or scam?"
+159,"Once identified, how did Upbit rectify or patch the issue to reenable Aptos transactions?"
+159,What prevented a large-scale loss due to redeeming fake Aptos tokens as real on Upbit exchange?
+159,What was the nature of the bug in Upbit's system that led to the acceptance of counterfeit Aptos tokens?
+160,How did the hacker manage to exploit the security vulnerability that led to the hack?
+160,Why did Huobi pay a bounty for the return of the funds?
+160,"Who confirmed the hack, and what assurance did they give to customers?"
+160,What did the hacker do two weeks after the incident?
+160,When and how much was Huobi exchange (HTX) hacked on?
+161,Was theMixin Network attack a centralized or decentralized hack?
+161,"What percentage of stolen funds will Mixin compensate users directly, and what are 'tokenized liability claims'?"
+161,What was the exact nature of the hack on Mixin Network's cloud service provider's database?
+161,Why was Mixin's cloud service provider's database targeted if Mixin Network is supposed to be a decentralized network?
+161,Is it safe to continue using Mixin Network after the announced suspension of deposits and withdrawals?
+162,Can you elaborate on how the scam functioned and what promises were made to lure victims into providing their wallet details?
+162,These types of phishing scams draw in tens of millions of dollars each month. What other actions can users take to protect themselves from falling victim to such fraudulent activities?
+162,How does this type of scam typically deceive its victims? (Hint: Check if the growing balance on the platform is real)
+162,"What is the estimated amount of Tether stolen in these types of scams since September 2021, according to one researcher?"
+162,What cryptocurrency was involved in the phishing scam that led to a loss of over $4.4 million?
+163,In what timeframe were the funds stolen after Balancer issued the warning?
+163,"What was the vulnerability that was exploited in the earlier hack on August 22, 2023?"
+163,Who was affected by the recent hack on Balancer's frontend?
+163,"What amount of funds were stolen in the latest hack on September 19, 2023?"
+163,"Was this the first incident of theft from Balancer in the past month? If not, when was the previous theft reported and how much was stolen?"
+164,How did Remitano describe the source of the hack mentioned in the record?
+164,What is the focus market of Remitano as indicated in the record?
+164,How much of the stolen funds from the Remitano hack were frozen by Tether?
+164,Which cryptocurrencies were stolen in the Remitano hack?
+164,On which date did Remitano suffer a $2.7 million hack?
+165,"Has Mark Cuban been a victim of similar incidents in the past? If yes, list them."
+165,What did Mark Cuban suggest as the possible cause for the hack?
+165,Is Mark Cuban currently involved in any legal actions related to his cryptocurrency activities?
+165,On which date did the hack on Mark Cuban's wallet occur?
+165,What cryptocurrencies were hacked from Mark Cuban's wallet?
+166,Whom do outside researchers suggest are responsible for the hack on CoinEx?
+166,Which geographical location does CoinEx operate from and what recent event has it been involved in regarding US customers?
+166,What steps did CoinEx take after identifying the 'security incident' involving 'unauthorized transactions'?
+166,Have there been any legal repercussions for CoinEx resulting from this hack?
+166,"Who was the target of the recent hack, and what is the amount stolen?"
+167,What actions has Remilia taken since the announcement of the theft to secure their financial assets and prevent future breaches?
+167,"Who is the developer accused of stealing $1 million from Remilia, the DAO behind Milady NFTs?"
+167,What were the methods used by the developer to divert fees and attempt to gain control of social media for Remilia?
+167,Can you provide more details about the incident in which Charlotte Fang was involved in a 4chan suicide cult?
+167,"Has a lawsuit been filed against the developer in connection with the theft and if so, where is it being litigated?"
+168,"Where does the allegation that Fortress Trust's founder Scott Purcell stole trade secrets and other valuable material originate from, and what is the current status of that lawsuit?"
+168,"What was the nature of the 'security incident' experienced by Fortress Trust in September 2023, as reported on September 11, 2023?"
+168,"What was the outcome of the acquisition of Fortress Trust by Ripple, and did it involve covering any undisclosed losses to customers?"
+168,Who was the third-party vendor involved in the compromise that impacted several Fortress Trust customers?
+168,Who is the founder of Fortress Trust and what other companies has he been associated with?
+169,What was the tweet that got posted on Vitalik Buterin's hacked Twitter account about?
+169,Why is the incident involving Vitalik Buterin's hacked Twitter account considered a stark warning in the crypto world?
+169,Who was the target audience of the crypto scam promoted through Vitalik's hacked account?
+169,What was the specific exploit used to compromise Vitalik's Twitter account?
+169,How much value in cryptocurrency and NFTs were stolen during this incident according to zachxbt?
+170,Were any known crypto projects or promises of token airdrops used as bait in this phishing attack?
+170,Have there been any repeated instances of similar cryptophishing incidents involving rETH and stETH wrapped versions of ETH in the past?
+170,What was the total estimated value of the tokens stolen in this phishing incident involving rETH and stETH?
+170,What types of tactics or strategies did the phisher use to lure victims into authorizing transactions on their websites?
+170,Can you provide the wallet address(es) associated with the crypto phishing activity that led to the loss?
+171,"According to the report, what evidence has led experts to believe the LastPass breach enabled access to stored crypto credentials?"
+171,"What is the name of the password management tool that reportedly had its vaults stolen, containing data of over 25 million users?"
+171,What is cybersecurity expert Brian Krebs's role in this incident as outlined in the report?
+171,How much money (in USD) do experts estimate have been stolen due to the LastPass hack-enabled crypto thefts?
+171,When did the lastPass breach occur according to this report?
+172,"What was the name of the hacked defi casino, and on what blockchain platform was it based?"
+172,How much Ether (ETH) was stolen in this exploit and what was the approximate value at the time of the hack?
+172,"Was any portion of the stolen funds returned, and if so, how much Ether (ETH) was returned by the attacker?"
+172,What was the reported cause of the GMBL.COMPUTER exploit according to the team responsible?
+172,What steps did the GMBL team plan to take in response to this incident?
+173,What actions do victims take when they're prompted to connect their MetaMask wallets on these fake sites?
+173,What websites were compromised and modified to redirect users to scam sites pertaining to the MetaMask crypto wallet?
+173,What type of assets can the scammers potentially steal from victims' MetaMask wallets once access is gained?
+173,Who are the perpetrators attempting to target with this new approach of compromising government websites?
+173,"Among the countries mentioned, which one had its Consumer Protection Agency website compromised in this scam?"
+174,Which celebrity does Stake have an endorsement deal with and for how much was this deal valued?
+174,"What was the amount stolen from each blockchain in the Stake hack? (ETH, BSC, Polygon)"
+174,Has Stake acknowledged the attack on their Twitter account and provided any information about re-securing the wallets?
+174,Who is attributing the Stake hack to - private key leak or a sophisticated breach targeting a transaction approval service?
+174,Who is currently believed to be responsible for the Stake hack based on FBI's announcement?
+175,Which cryptocurrency and corresponding value were stolen from Fraternidade Crypto's wallet?
+175,What action did Fraternidade Crypto take immediately after realizing his mistake?
+175,"How many NFTs were stolen from Fraternidade Crypto's wallet, and what was their estimated value?"
+175,What event led to the loss of life savings for 'Fraternidade Crypto' in August 2023?
+175,"Did Fraternidade Crypto recover the stolen cryptocurrencies and NFTs, and if so, which ones?"
+176,Why did Balancer not execute a whitehat attack on their protocol to safeguard the vulnerable funds as suggested by MevRefund?
+176,What is the vulnerability that led to the draining of $2.1 million from Balancer's DeFi project?
+176,Are there any ongoing mitigation procedures in place to reduce risks related to this vulnerability?
+176,How can users prevent further thefts from affected liquidity pools according to Balancer's advice?
+176,What steps is Balancer taking to investigate and resolve the issue fully?
+177,How did the attacker manage to compromise a Telegram account of a portfolio company founder?
+177,"Which tokens were affected in the phishing scam, and what was the approximate value lost for each token?"
+177,How did the attacker use permit phishing to execute the scam on SOL Big Brain?
+177,What actions could have been taken by SOL Big Brain or the crypto community to prevent this loss?
+177,What specific contract was set up by the attacker and how did it lead to the draining of SOL Big Brain's wallet?
+178,"What effect did the allegations of theft or hack have on the $PEPE token price, and what was the percentage change in its value?"
+178,Who made the transfer of over 16 trillion $PEPE tokens from the multisig wallet to crypto exchanges?
+178,"Is there any evidence supporting or refuting these claims, or any official statement from the $PEPE team regarding this matter?"
+178,Why did the PEPE team member claim that the transfers were theft by three of the project's other team members on the project's Twitter account?
+178,"What changes were made to the multisig wallet security requirements, and who authorized these changes?"
+179,Which law enforcement agency is currently working with the DEA to trace the theft in this case?
+179,"What type of incident occurred where the U.S. Drug Enforcement Administration (DEA) erroneously sent $50,000 to a scammer?"
+179,How did the scammer manage to steal the funds from the DEA?
+179,What is the name of the tactic the scammer used in this case that often results in success due to the nature of crypto wallet addresses?
+179,Why was it challenging for the DEA to recover the stolen funds after the incident?
+180,What was the name of the token involved in the pump-and-dump scheme targeted at law enforcement officers?
+180,"Regarding the separate investment scheme John DeSalvo operated through Facebook, what were the allegations made by the SEC about how he handled the gathered investments?"
+180,"What actions was John DeSalvo accused of taking with the profits from his pump-and-dump scheme, including the purchase and sale of other crypto tokens?"
+180,"Approximately how many investors were convinced to pour money into this scheme, and what was the total amount collected?"
+180,"Regarding John DeSalvo's claims about a way for people to take payroll deductions to buy the token, what did he assert would be the guaranteed minimum return on investment?"
+181,"How did the victim lose $900,000 in USDC?"
+181,Why was the phishing website able to appear as a legitimate result for 'celer bridge' search?
+181,What precautions should be taken to avoid falling victim to such Google Ad phishing attacks in the future?
+181,What method was used to trick the victim into connecting their crypto wallet on a phishing website?
+181,How can I confirm if a Google Ad or search result is genuine when looking for information about cryptocurrency projects?
+182,What was the peak TVL that the Harbor Project reached previously?
+182,How much funds did the exploit drain from the project pools according to Harbor's statement?
+182,"Who announced the Harbor Protocol exploit on August 19, 2023?"
+182,What was the initial and current Total Value Locked (TVL) of the project pre-and post-exploit?
+182,What platform can I check the current TVL of the Harbor Protocol?
+183,"What was the nature of the incident with the Terra website on August 19, 2023? "
+183,How long were the services on Terra's official website disrupted due to the hijacking?
+183,How did the compromised Terra website affect user wallets?
+183,Is it possible to estimate the total amount of funds stolen during the Terra website hijacking incident?
+183,Why did the Terra project advise against using their website even after claiming control over the situation?
+184,How much Ethereum was siphoned from the Exactly Protocol during the attack?
+184,What was the total value locked (TVL) in the Exactly Protocol before and after the hack?
+184,What measures has the Exactly Protocol taken to prevent future attacks?
+184,Where was the stolen Ether bridged after being siphoned from the Exactly Protocol?
+184,Who were the four firms that audited the Exactly Protocol before the hack?
+185,"Which cryptocurrencies were stolen from Mr. Stephens' hot wallet, and what was the total amount in US dollars?"
+185,What triggered the email alert that prevented the theft of additional cryptocurrency from the cold wallet belonging to Mr. Stephens?
+185,"What was the value (in US dollars) of approximately 80 BTC and 6,500 ETH that the attackers attempted to steal from Mr. Stephens' cold wallet?"
+185,Who are the unknown individuals accused of the SIM swap hack on Blockchain Capital co-founder Bart Stephens?
+185,Which specific actions by an as-yet-unknown individual(s) led to the SIM swap hack on Mr. Stephens?
+186,Was the RocketSwap hack a result of brute force attack on a server storing private keys?
+186,Should projects that have migrated from RocketSwap be concerned about the security of their funds?
+186,Is there any recent update on the status of user funds on RocketSwap following the hack?
+186,"Did RocketSwap announce any plans to compensate users affected by the theft? If so, what type of tokens will be airdropped?"
+186,Approximately how much Ether (ETH) was stolen from the RocketSwap project in this hack?
+187,"Which firms, Ackee and HashEx, audited the Zunami Protocol before the exploit?"
+187,"Which decentralized finance (DeFi) project, Zunami Protocol, was exploited for over $2.1 million?"
+187,What was the promised annual percentage yield (APY) that attracted users to the Zunami Protocol prior to the exploit?
+187,In what manner were the funds stolen from the Zunami Protocol tumbled to obscure their origin?
+187,"What type of attack was performed on the Zunami Protocol's primary pool, leading to the theft of 1,152 ETH?"
+188,Which cryptocurrency wallets were affected by the 'Milksad' vulnerability disclosed in the Libbitcoin project?
+188,What is the specific irresponsible implementation in the Libbitcoin project that led to the production of flawed private keys in multiple wallets?
+188,Can you briefly describe the response of the Libbitcoin team to the disclosure of the 'Milksad' vulnerability by the Distrust security research firm?
+188,How much estimated loss (in USD) was resultant from exploiting this vulnerability?
+188,"What is the method used to brute-force the private keys in this attack, and how long does it take on an average gaming PC?"
+189,Which tokens were stolen from the victim who applied for a beta testing job in a play-to-earn crypto game and received malware instead?
+189,What type of scam is targeting web3 job-interested individuals through dedicated portals?
+189,"Why did the scammed user mention their love for Web3, its technology, and people while describing their experience?"
+189,"Which tokens do you think the user had 'various other tokens' from, given it is not explicitly stated in the record?"
+189,What warning did the tweeting user express about not being cautious enough due to the apparent legitimacy of these web3 job listing sites?
+190,"Who was the attacker behind the Cypher protocol exploit in August 7, 2023?"
+190,"What actions have community members taken in response to the exploit, such as sending NFTs or messages to the attacker?"
+190,Which smart contract of the Cypher protocol was frozen due to the exploit?
+190,"Have there been any attempts to negotiate with the attacker for the return of some of the stolen funds? If so, who attempted this and what means did they use?"
+190,What cryptocurrencies were stolen during the exploit of the Cypher protocol?
+191,"How much money was siphoned from Steadefi in total, and in what cryptocurrency was it denominated?"
+191,In which category (Hack or Scam) is it categorized in the record?
+191,Why was Steadefi exploited and what were the funds used for?
+191,What vulnerability or private key leak allowed the attacker to change the contract owner of Steadefi?
+191,When did this exploit occur according to the provided record?
+192,"What was the incentive offered by the platform to the exploiter to return the majority of funds siphoned, referred to as a 'bug bounty' in the record?"
+192,"What steps was the project planning to take after the exploit, as mentioned in the record?"
+192,What platform was exploited and how much Ether (ETH) was siphoned?
+192,"Which auditing companies, SolidProof and InterFi, were responsible for the audit of the affected platform before the exploit occurred?"
+192,"Is this identified issue labeled as a hack or scam, according to the provided tags?"
+193,When was LeetSwap launched on Base blockchain and what is it described as?
+193,On which platform (other than Base) has LeetSwap been previously launched?
+193,How much of the stolen funds did LeetSwap ask the hacker to return?
+193,What function in LeetSwap allowed the attacker to manipulate token prices?
+193,Who exploited LeetSwap on Base blockchain and what was the profit made?
+194,What steps could users take to avoid falling victim to a similar zero-transfer attack?
+194,What is a zero-transfer attack or address poisoning attack?
+194,Who was the victim of this attack that managed to get Tether to intervene so quickly?
+194,Why did only 51 minutes elapse between the theft and the assets being frozen by Tether?
+194,How does a user fall for a zero-transfer attack despite the apparent low likelihood?
+195,"Did the primary exploiter return any of the stolen funds, and if so, in what proportion did they refund AlchemixFi, JPEG'd, and other affected projects?"
+195,"Which smart contract programming language had an improperly implemented re-entrancy guard, leading to vulnerabilities in some projects?"
+195,"What were the approximate losses suffered by Curve, AlchemixFi, JPEG'd, MetronomeDAO, Ellipsis Finance, and Debridge Finance due to this exploit?"
+195,"Was there any notable whitehat action taken during these exploits, and if so, which projects benefited from such actions?"
+195,What steps should a project relying on vulnerable versions of the identified smart contract language take to secure their assets?
+196,"Who launched the memecoin, Pond0x?"
+196,"Did Pauly0x admit to a hack or scam with regards to the memecoin, Pond0x?"
+196,What message did Pauly0x add to the website in relation to the Pond0x incident?
+196,What were the serious flaws discovered in the Pond0x contract?
+196,Why did Pauly0x blame traders and suggest it wasn't his fault for the losses?
+197,Who originally reported the CoinsPaid hack and what evidence did they provide?
+197,"Who was referred to as possibly being behind the CoinsPaid hack by zachxbt, and why is this group suspected?"
+197,"Are there any known connections between Alphapo and CoinsPaid, and if so, what have they been noted for?"
+197,What was CoinsPaid's initial response to Jameson Lopp's tweet that it 'look[ed] more like a hack'?
+197,What was the total amount hacked from CoinsPaid in dollars according to their official announcement?
+198,How did the thief distribute the stolen funds across various wallets and blockchains?
+198,"What actions has EraLend taken in response to the attack, and who are they collaborating with during their investigation?"
+198,"In which crypto lending platform was an exploit for around $3.4 million found on July 25, 2023?"
+198,Which vulnerability did the attacker leverage to manipulate token prices and drain funds from EraLend?
+198,"Has BlockSec issued any warnings regarding potential vulnerabilities for projects that reuse a portion of code from another project (in this case, SyncSwap), and what specific advice have they given?"
+199,Which cryptocurrency payment processor was hacked for over $60 million?
+199,What specific issue caused HypeDrop to disable withdrawals on their platform?
+199,Which gambling platforms are affected by the crypto provider's issue?
+199,Which cryptocurrencies were stolen in the Alphapo hot wallet hack?
+199,Is it confirmed that normal deposit and withdrawal processes have resumed for affected platforms?
+200,How much did the attacker ultimately profit from the exploit of Conic Finance's crvUSD pool?
+200,"Which asset pool of Conic Finance was targeted in the second attack, apart from ETH pools?"
+200,Did Conic Finance's assurance regarding the first hack's limitation to the ETH pool hold true in light of the second attack?
+200,Were any other asset pools besides ETH and crvUSD affected during the two attacks on Conic Finance?
+200,What was the amount stolen from Conic Finance's crvUSD pool during the second hack?
+201,Which smart contract was vulnerable in the Conic Finance DeFi project?
+201,Were there any attempts by Conic Finance to contact the exploiter following the hack?
+201,What actions did the Conic Finance team take immediately after discovering the exploit?
+201,"What was the amount of ETH stolen in the Conic Finance hack on July 21, 2023?"
+201,Is the vulnerability that led to the Conic Finance hack known to affect other DeFi projects or smart contracts?
+202,"Which bank, with ties to the crypto industry, had tens of millions seized by the U.S. Secret Service due to probe into fake crypto investment schemes?"
+202,What indicators did the victims see when interacting with these fake crypto sites that misled them into depositing more money despite not being able to withdraw later?
+202,"According to the affidavit, how did the alleged fraudulent activity operate in deceiving victims and concealing the funds' origin?"
+202,What are the potential charges that led to the seizure of funds from Deltec Bank as per court filing?
+202,In what way do shell companies reportedly play a role in this crypto investment scam?
+203,Which projects were affected by the hack carried out by the individual identified above?
+203,What type of items did the individual purchase using some of his ill-gotten funds?
+203,What method did the individual use to impersonate another person in one of his scams?
+203,Who exposed the individual and provided information about where some of his funds were spent?
+203,Who was the individual who made more than $1 million through Discord hacks and what is his online alias?
+204,What kind of suspicious activity in this hack involved flash loans?
+204,What is the monetary value lost during the previous hack of the mentioned protocol?
+204,When was the first instance of this protocol being hacked?
+204,Has there been any prior occurrence of similar suspicious activities involving flash loans with this protocol?
+204,What protocol was hacked for the second time in this instance?
+205,How much was initially taken in the latest exploit before any recovery efforts?
+205,What method was used to drain funds from Rodeo Finance in this latest exploit?
+205,"Which cryptocurrency project, based on the Arbitrum network, was recently exploited for approximately $884,000?"
+205,When was the first exploit of Rodeo Finance observed and approximately how much was taken during that incident?
+205,What tool or service did the attacker use to tumble the funds obtained from the exploit?
+206,Who is the perpetrator charged in the NFT phisher case and what specific crime does he allegedly commit?
+206,Approximately how much loss incurred for a victim named 'Hank666' due to this scam?
+206,"Once a victim entered their credentials, how was the perpetrator able to access their crypto assets and sell their NFTs?"
+206,What methods did the perpetrator use to lure victims into revealing their login credentials for OpenSea?
+206,What charges has Oulahyane been accused of by the U.S. Attorney's Office?
+207,Is there any suspicion or evidence that the Multichain thefts might be an inside job?
+207,What is the current status of Multichain's CEO who vanished in late May and hasn't been located since the first theft?
+207,Why did Multichain urge users to stop using the project and revoke contract approvals after the initial theft?
+207,Is the recent $107 million drain from Multichain a continuation of the initial hack or a separate incident?
+207,What assets were taken in the second $107 million drain from Multichain?
+208,Are there concerns about potential misuse of the information traded on the 'on-chain intelligence exchange' for illegal activities like kidnapping or assassination?
+208,What responses did the announcement of Arkham Intelligence's 'on-chain intelligence exchange' receive in the crypto community?
+208,How does the 'on-chain intelligence exchange' contribute to the democratization of tools already held by the government?
+208,What steps has Arkham Intelligence taken to address concerns about maintaining safety and privacy in the crypto world with their new project?
+208,Can you provide examples of how 'doxx[ing] scammers' or accelerating privacy is being promoted in discussions regarding the 'on-chain intelligence exchange'?
+209,What steps were taken by Arcadia Finance to prevent further attacks after the incident?
+209,What strategy did the attacker use in exploiting Arcadia Finance?
+209,"What was the total loss suffered by Arcadia Finance due to this exploit, including both ETH and stablecoins?"
+209,"Who was the target of the July 9, 2023 hack on Arcadia Finance?"
+209,What action did the Arcadia Finance team suggest the attacker take to alleviate the situation?
+210,"What Twitter accounts were compromised in the NFT hack on July 7, 2023?"
+210,"Did Gutter Cat Gang, the NFT project involved in this hack, take any action to compensate victims who lost assets?"
+210,What method did the attackers use to deceive victims and gain access to their wallets?
+210,"Which NFT project was affected by this Twitter compromise, and what was the approximate value of NFTs stolen?"
+210,Are there any known efforts by law enforcement to investigate or apprehend the perpetrators of this NFT theft?
+211,"Has Multichain encountered similar incidents in the past, and if so, what was the outcome of those incidents?"
+211,"In January 2022, did Multichain's public announcement of a security vulnerability precede any instructions to users for safeguarding their tokens?"
+211,Did Multichain provide a confirmed resume time for bridge transactions after stopping the service?
+211,Why did Multichain recommend users to stop using the service and revoke contract approvals?
+211,What is the suspected cause of the $130 million assets movement out of Multichain blockchain bridge?
+212,"What was the nature of the incident leading to the loss of $213,000 by LoveMake.eth?"
+212,Who did LoveMake.eth believe they were interacting with in the Twitter conversation leading up to their loss?
+212,What was the handle of the account that LoveMake.eth connected their primary wallet to?
+212,Why did LoveMake.eth express dissatisfaction towards Twitter's verification process?
+212,What further criticism did LoveMake.eth express about their experience with Twitter in web3 projects?
+213,Who were the exploiters and how did they take advantage of the flaw in the $BEAN governance token smart contract?
+213,What steps were taken by the Azuki DAO immediately after the discovery of the exploit to prevent further thefts?
+213,What was the amount stolen by each exploiter during the exploitation of the $BEAN governance token smart contract?
+213,"Was there any permanent damage to the Azuki DAO's smart contract after the exploit, and if so, what were the implications?"
+213,Is the legal action against the Creator of Azuki still pending?
+214,"What is the name of the cryptocurrency exchange that was hacked for a record-setting $611 million in August 2021 and again, with reports of potential losses up to $42 billion?"
+214,What is the current value of the tokens minted by the attackers despite their wallet balances showing numbers in the billions?
+214,What did the exploiters manage to accomplish in this latest Poly Network exploit?
+214,What action was taken by Poly Network after the latest attack?
+214,"How much has been cashed out by the attackers from their liquid assets so far, according to crypto research firm Beosin?"
+215,"In what currency were the stolen Themis-wrapped ETH swapped during the exploit, and what was the exchange rate for that swap?"
+215,What was the approximate worth of Themis-wrapped ETH that the attacker drained from the protocol?
+215,What was the reported total value drained by the attacker in Themis Protocol hack?
+215,"What security measures did Themis Protocol allegedly put in place, as mentioned in its documentation, in the case of this hack or scam?"
+215,"How was the Themis Protocol exploited, based on the provided record?"
+216,What was the total amount amassed from at least seven inmates by the convicted inmate running the Bitcoin scam scheme?
+216,"Who served a twelve-year sentence for running a Ponzi scheme and allegedly defrauded Jarryd Hayne of over $500,000 through a Bitcoin scam while in prison?"
+216,Who is Ishan Seenar Sappidee and what was the nature of his criminal activity that led to his imprisonment?
+216,"What is the current status of Jarryd Hayne's legal proceedings (rape charges, conviction, appeal, retrial, etc.) related to his incarceration?"
+216,"How much did Jarryd Hayne, the former NRL star and convict, lose to this specific Bitcoin scam?"
+217,What action was taken by the UK's Financial Conduct Authority regarding 'SpireBit' based on this information?
+217,"What are the signs that 'SpireBit' is a scam, based on this report?"
+217,"Is it possible to estimate the total number of victims or the monetary amount lost due to 'SpireBit' scam, according to this report?"
+217,How might one recognize a fake LinkedIn profile being used by the operators of 'SpireBit'?
+217,Can you provide information about the partners allegedly associated with 'SpireBit' that actually exist within and outside the crypto ecosystem?
+218,Where were the victims directed when they viewed the fake NFTs?
+218,"How did the scammers manage to airdrop fake NFTs to over 500,000 wallets?"
+218,What actions might be recommended to prevent similar incidents in the future?
+218,"What type of losses have been reported as a result of this scam, and what was the largest single loss?"
+218,What are the names of the projects that were impersonated in the Polygon NFT phishing scheme?
+219,What was the alleged blockchain-based company accused of by South Korean police?
+219,Approximately how much money did this company raise from investors?
+219,"Despite promises made by the company to build it, what park for pets was not leased by the company?"
+219,"Who were the victims of this alleged scam, according to the Korean police?"
+219,What product that was marketed as using a blockchain by the accused company was found to be fake?
+220,"Which company, besides the investigating agencies, is collaborating with FPG in their analysis of the attack?"
+220,"What cybersecurity certification had FPG obtained prior to the hack that occurred on June 11, 2023?"
+220,"Which agencies (FBI, Department of Homeland Security, etc.) are assisting with the investigation into the FPG hack?"
+220,"What is the name of the cryptocurrency broker that experienced a hack, and on what date did they announce its suspension of activities?"
+220,"How much cryptocurrency was reportedly lost in this hack at FPG as of June 14, 2023?"
+221,Why is the Venus platform described as 'opaque' and has it been accused of trying to hide some of its liabilities?
+221,What are the potential implications for other positions or accounts on the Venus platform if the liquidation occurs?
+221,How much funds have been prepared by the BNB Chain core team to repay the debt in a controlled manner without dumping BNB onto the market?
+221,What actions will the BNB Chain core team take if the BNB price hits the liquidation threshold and how will it affect the market?
+221,What is the current liquidation threshold for BNB in the Venus Protocol defi lending project?
+222,"What steps, if any, can be taken to prevent similar exploits in the future for defunct projects like Atlantis Loans?"
+222,Who was able to exploit the Atlantis Loans defi lending project and what method did they use for gaining control of the project's smart contract?
+222,Why were users with active smart contract approvals affected by this exploit despite the project being described as 'fully decentralized'?
+222,How was the attacker able to transfer assets notionally worth around $1.1 million from the Atlantis Loans project into their own wallet after performing the governance attack?
+222,What changes were made to the Atlantis Loans project's smart contract during the exploitation incident?
+223,"What measures did Sturdy Finance take immediately following the attack on June 11, 2023?"
+223,In what blockchain platform were the funds transferred after being stolen from Sturdy Finance?
+223,"Who was responsible for exploiting the Sturdy Finance DeFi lending protocol on June 11, 2023?"
+223,What was the total amount taken by hackers (in ETH) from Sturdy Finance during the exploit?
+223,What actions have been taken by Sturdy Finance to recover the stolen funds as of June 19?
+224,What were the contents of the fraudulent message posted in the hijacked Discord channel?
+224,"Was any resolution confirmed by BNB Chain after the hijacking incident? If so, what was it?"
+224,What is the approximate value of BNB that scammers claimed they'd allocated to the supposed airdrop?
+224,What action did BNB Chain take within 10 minutes to address this issue?
+224,What kind of attack was perpetrated on BNB Chain's Discord vanity URL?
+225,What actions were advised to users of Atomic Wallet after the reported wallet compromises?
+225,"Which cryptocurrencies were primarily affected in this hack, and what were the largest known individual thefts?"
+225,Who is speculated to be responsible for laundering the stolen crypto in this attack and what is their history of major crypto thefts?
+225,Who was responsible for disclosing the security issues with Atomic Wallet software and why didn't the company address them?
+225,What is the total amount of crypto stolen from Atomic Wallet users in this hack?
+226,"What actions were taken by the unshETH team in response to the hack, such as emergency pausing withdrawals of unshETH ether?"
+226,Why did the attacker return ownership of the project's smart contracts after the hack?
+226,"Who was responsible for the $375,000 drain from the unshETH defi project and how did they achieve it?"
+226,What was the threat made by the unshETH team towards the hacker and their associates if the stolen funds are not returned?
+226,"Was the threat by the unshETH team considered a bluff by some observers, as mentioned in one comment?"
+227,Who was the individual claiming to be battling cancer and what art style were they selling as NFTs?
+227,"How did the 'Pixel Penguins' NFT project raise approximately $117,000 before being exposed as a fraud?"
+227,"Was Andrew Wang able to verify the authenticity of the person he was promoting before tweeting about the 'charity NFT project', and how did the public respond to his apology for promoting a scam?"
+227,Who is zachxbt and what role did they play in exposing the 'Pixel Penguins' NFT fraud?
+227,What evidence was found that the pixel art used in the NFT project had been stolen from other sources?
+228,What was the developers' response to the accusation of implementing a backdoor to manipulate user positions and steal their funds?
+228,What were the other vulnerabilities that the exploiter claimed to have found in the El Dorado Exchange project?
+228,"Did the attacker return all the funds, as promised, after the developers' response?"
+228,"Who exploited the El Dorado Exchange (EDE) on May 29, 2023 and what was the claimed reason for the exploit?"
+228,What was the amount of funds stolen during the EDE exploit?
+229,How did the attacker leverage flash loans to exploit the v2 protocol?
+229,Which Ethereum address benefited from the Jimbos Protocol exploit? 
+229,What was the nature of the exploit on Jimbos Protocol? 
+229,Why did Jimbos Protocol offer to stop investigations if the hacker returns 90% of the stolen funds?
+229,What actions has Jimbos Protocol taken following the exploitation and what is their current status in terms of law enforcement involvement?
+230,What was the approximate amount stolen in USD during the incident?
+230,What specific incident of hack or scam is this record about?
+230,When did the incident occurred according to the report?
+230,In which app or platform was the incident reported?
+230,Why was the incident revealed in May 2023 if it actually happened in January 2022?
+231,Why did 'ben.eth' promise to reimburse his fans who lost money due to their tweets related to the crypto scam?
+231,What was the nature of the scam that drained unsuspecting traders' wallets during Steve Aoki's Twitter account compromise?
+231,"Who was the person able to compromise Steve Aoki's Twitter account on May 25, 2023?"
+231,"What does 'zachxbt characterize' in this context, and why was their statement significant in connection with the scam incident involving Steve Aoki's account?"
+231,"Who is 'ben.eth', and how did they contribute to the scam related to Steve Aoko's hacked Twitter account?"
+232,What was the nature of the warning issued by the government of Singapore about Morgan DF Fintoch?
+232,Why were users of Morgan DF Fintoch having issues withdrawing funds on May 23?
+232,"When and how did it appear that Morgan DF Fintoch executed their exit scam, as reported by cryptocurrency sleuth zachxbt?"
+232,What claims did Morgan DF Fintoch make regarding returns on investor's funds?
+232,Is Morgan DF Fintoch a legitimate company associated with Morgan Stanley?
+233,In what way were the funds laundered following the $CS token exploit?
+233,Have similar incidents occured with the $CS token in the past?
+233,What was the final amount of Ether (ETH) obtained by converting the funds from the $CS token exploit?
+233,"What cryptocurrency was exploited for nearly $700,000 on May 23rd, 2023?"
+233,How did the attacker execute the flash loan exploit in the mentioned $CS token hack?
+234,"What actions have been taken by the attacker after gaining control? (e.g., draining locked votes, selling $TORN tokens, tumbling ETH)"
+234,What is the current status of $TORN governance tokens and their value since the attack?
+234,"What are the potential consequences for Tornado Cash DAO if the attacker implements additional actions (e.g., withdrawing all locked votes, draining all tokens in the governance contract, bricking the router)?"
+234,Why did the attacker's proposed penalty proposal receive the necessary votes to pass?
+234,How did the attacker gain control of Tornado Cash DAO?
+235,"Which other project, 'Swap X', is associated with the known exploiter from the WDZD Swap hack?"
+235,"What specific vulnerability was used in the WDZD Swap hack, given that it was a known exploiter who carried out the attack?"
+235,Which blockchain was the targeted project (WDZD Swap) based on?
+235,"What project was exploited on May 19, 2023, and how much money was stolen?"
+235,"Who was the attacker in this case, and does their name suggest anyPrevious history of similar exploits or scams?"
+236,What does the victim offer to the attacker in return for returning 50% of the funds stolen from them and refraining from reporting them to Interpol and other authorities?
+236,"What was the largest confirmed amount of assets stolen by 'Inferno Drainer' from a single victim, and what did the victim write in an on-chain message to the thief?"
+236,What percentage cut does 'Inferno Drainer' take as their payment for the phishing scam software sold to the phishers using this service?
+236,What additional legal right does the victim seem to grant to the attacker should they accept the offer mentioned in their on-chain message?
+236,"What is the identity of the phishing-as-a-service company named 'Inferno Drainer' that has been active since mid-February, 2023, and has stolen assets nominally worth around $5.9 million?"
+237,Which cryptocurrencies were stolen in this phishing attack on HitBTC?
+237,What was the name of the phishing website that impersonated the real crypto exchange?
+237,"How much money, in total, was stolen from victims of this phishing scam?"
+237,What gave away the fact that the website accessed by some users was not the real HitBTC?
+237,What URL should users verify when accessing HitBTC to avoid falling victim to such a phishing attack?
+238,What protocol was hacked and how much money was taken in the hack?
+238,Who were the individuals that returned some of the stolen funds (apparent whitehats) and when?
+238,What was the effect of Deus Finance's algorithmic stablecoin losing its dollar peg and how has it recovered?
+238,In what way did attackers exploit the contracts of the DEI token?
+238,"Has this protocol been targeted before and if so, how much were previous exploits?"
+239,What was the impact of the exploit on the LVL token price?
+239,Who was responsible for exploiting Level Finance and how much did they gain from the attack in BNB?
+239,Why were the vulnerabilities not detected by Obelisk and Quantstamp during their audit of the project's smart contracts?
+239,Were any third-party firms involved in the auditing process of the Level Finance smart contracts prior to the exploit?
+239,"What recovery measures, if any, have been implemented following the Level Finance exploit?"
+240,"Which specific instances of 'permit phishing' scam resulted in the loss of $4 million, $1.04 million, and $2.28 million?"
+240,Which incidents between March and April 2023 saw the highest value in funds lost from individual wallets?
+240,What is the total amount stolen from March to April 2023 due to this scam?
+240,When did Scam Sniffer first detect instances of the 'permit phishing' scam?
+240,In which months did incidents involving 'permit phishing' scams occur in April 2023?
+241,What was the total value locked (TVL) in 0VIX before the hack occurred?
+241,In what way did the attacker manipulate the oracle prior to executing a flash loan attack on the project?
+241,"Was any resolution or restoration action taken by 0VIX, such as collaboration with security firms or an offer for a bug bounty, after the hack was discovered?"
+241,What was the approximate value of funds stolen during the 0VIX protocol hack on the Polygon blockchain?
+241,What terms were offered in the bug bounty agreement for the attacker to return the remaining funds without facing legal action?
+242,Which Bitcoin addresses were identified as being connected to Russian hacking activity?
+242,What message was left in the destroyed transactions to make allegations?
+242,Why did the activity of this thief commence prior to the Russian invasion of Ukraine?
+242,What organization's analysis supported the link between some of the wallets and Russian hackers/disinformation pushers?
+242,'The thief' stopped destroying the Bitcoin and instead began transferring it to addresses identified for Ukrainian aid. To who were these Bitcoins transferred?
+243,What is the position of AT&T regarding the claim that the hackers can allegedly gain access to any AT&T account via the employee portal? What did they instead attribute the breach to?
+243,"Did any AT&T employee actively participate in this cyber attack, or was it an external actor exploiting an API access?"
+243,"Which cryptocurrency exchanges, apart from Coinbase and Gemini, had their customers' accounts drained due to the hack?"
+243,What was the total estimated amount of cryptocurrency stolen as a result of the AT&T customers' crypto wallet compromises reported in April 2023?
+243,Which specific AT&T customer accounts were used by attackers to gain access to victims' cryptocurrency accounts?
+244,Is there any suspicion or evidence that the entire team of the Merlin Project is involved in this incident rather than a few rogue developers?
+244,What steps are being taken by the remainig team members to trace the thieves responsible for the $1.82 million theft?
+244,"What action were users asked to take by the Merlin DEX following their belief of an exploit in the early hours of April 26, 2023?"
+244,What firm audited the Merlin DEX before its launch and how are they assisting after the hack?
+244,On what date did the Merlin DEX launch on zkSync Ethereum layer-2?
+245,How many transactions were identified as affected by the exploit in the UniSat wallet?
+245,Is there any information available about who was identified as responsible for the theft that occurred from the exploited UniSat wallet?
+245,What vulnerability was present in the code of the exploited UniSat wallet that made it susceptible to double-spend attacks?
+245,"What was the name of the exploited BRC-20 wallet that was launched on April 23, 2023?"
+245,What actions has the UniSat team taken or promised to compensate affected users due to the exploit?
+246,Who or what party might be behind this wallet draining operation according to the crypto researcher's speculation?
+246,"What is the proposed mechanism of attack that could explain this draining operation, as hinted in the tweet thread?"
+246,"What is the total amount (in ETH) stolen in this operation as of April 18, 2023?"
+246,Which blockchains were affected by this draining operation and from when did it start?
+246,Who conducted the research about the massive wallet draining operation and where can I find their Twitter thread?
+247,Were any other projects involved apart from Hundred Finance in the March 2022 flash loan attack mentioned?
+247,What was the amount of funds siphoned from Hundred Finance in the recent exploit?
+247,Does the provided record indicate if the latest exploit was a one-time event for Hundred Finance or part of a larger pattern? (include previous incidents)
+247,Has Hundred Finance managed to recover any funds from the attacker?
+247,"In what network, Optimism layer-2 or otherwise, did this exploit occur?"
+248,"Which cryptocurrency exchange was hacked on April 14, 2023?"
+248,What actions were taken by Bitrue following the hack?
+248,Who will be compensated for their losses due to the Bitrue hack?
+248,What specific tokens were stolen as a result of the Bitrue hack?
+248,How were the funds estimated to be around $23 million?
+249,Did Franklin publicly disclose the name of the project or individual he suspects of orchestrating the scam for profit?
+249,"What is the total ETH loss reported by Franklin from social media activities, considering NFT trading losses as well as personal gambling at Rollbit?"
+249,Has Franklin temporarily withdrawn from NFT trading and social media following the incident?
+249,"What NFT project did Franklin mention getting scammed on, resulting in 2000 ETH loss?"
+249,Were there any signs of insider trading or suspicious activity involving Franklin and Rollbit crypto casino prior to the incident?
+250,What token was used by the attacker to mint more than 1.2 quadrillion yUSDT in the Yearn Finance exploit?
+250,What actions did the attacker take after initiating the exploit in the Yearn Finance protocol?
+250,"Which version of the Yearn protocol was vulnerable to the bug, and when was it frozen?"
+250,"What was the estimated loss in the Yearn Finance exploit on April 13, 2023?"
+250,Which additional platforms (besides Aave) were potentially impacted by the Yearn Finance exploit?
+251,What action did GDAC take immediately after the attack?
+251,What percentage of funds custodied on the GDAC exchange were represented by the stolen assets?
+251,How much were the stolen assets worth at the time of the exploit?
+251,"What were the specific assets stolen in the GDAC exchange hack on April 10, 2023?"
+251,Who was contacted to investigate the hack?
+252,"Were there any known vulnerabilities in the Terraport Finance smart contracts that could have facilitated the hack on April 10, 2023?"
+252,"How was the attacker able to drain all project liquidity pools in Terraport Finance on April 10, 2023?"
+252,"What are the specific assets drained from Terraport Finance during the hack disclosed on April 10, 2023?"
+252,Why did the attacker choose to target Terraport Finance shortly after its launch and what impact did this have on the overall value of the project?
+252,"Was there an audit for Terraport Finance prior to its launch on March 31, 2023?"
+253,What actions has SushiSwap leader Jared Grey advised users to take regarding the vulnerable contract?
+253,Who was the victim of a theft through the SushiSwap decentralized exchange?
+253,Approximately how much ETH (in USD) were stolen from 0xSifu?
+253,"How many addresses have approved the vulnerable smart contract on various chains, and which chains are these?"
+253,What specific bug in the SushiSwap smart contract allowed this theft?
+254,Why did Gryphon Digital Mining reportedly hesitate to report the fraud to law enforcement agencies like the FBI?
+254,What was the specific method used to defraud Gryphon Digital Mining's CEO?
+254,Who are the parties involved in this lawsuit and what is their allegation against each other?
+254,"Besides the fraudulent transaction, what other issues does Sphere 3D allege in the lawsuit against Gryphon Digital Mining?"
+254,"What actions did Gryphon undertake that led Sphere 3D to accuse them of 'skimm[ing] off the top (i.e., st[ole]) from Sphere's assets'?"
+255,Can you provide any details about the suspicious-looking transactions that led observers to suspect Bryant's hack?
+255,How much is the stolen Bored Ape NFT likely to fetch if resold on the market?
+255,"What are the approximate total values of the three other NFTs stolen alongside Bored Ape, along with a rough estimate of the stolen cryptocurrencies?"
+255,"How did Bryant confirm the theft occurred and what was his reaction to it, as mentioned in the report?"
+255,"What valuable NFTs were stolen from Dez Bryant, the former NFL player turned 'web3 innovator', in the reported hack?"
+256,What was the name of the hacked liquidity protocol?
+256,Which blockchain did the Sentiment protocol reside on during the attack?
+256,What were the types of tokens stolen in the Sentiment hack?
+256,How did the attacker execute the theft according to the record?
+256,What was the outcome of the offer made by Sentiment to the exploiter?
+257,"Who was the perpetrator in this $25 million MEV bot exploit on April 3, 2023?"
+257,"What were the cryptocurrencies (WBTC, USDT, Dai, WETH) involved in the over $25 million loss due to this exploit?"
+257,What debate exists regarding whether MEV bots are stealing or operating within established rules (regarding MEV bots)?
+257,"To execute a 'sandwich attack', what type of transactions did the malicious actor send before and after the pending transaction?"
+257,Who was the rogue Ethereum validator that replaced transactions in this exploit?
+258,"Has Allbridge temporarily halted operations due to the exploit and if so, for how long are they planning to keep operations suspended?"
+258,Has Allbridge shared details about their planned user compensation strategy following the identified exploitation?
+258,Which smart contract vulnerability was manipulated to facilitate the theft in the Allbridge incident?
+258,Did Allbridge confirm any collaboration with law enforcement regarding the investigated theft?
+258,"What was the approximate amount stolen during the exploit of Allbridge cross-chain bridge on April 1, 2023?"
+259,"How were users' tokens allegedly claimed by attackers using hacked vanity addresses, and how much was reportedly stolen in this manner?"
+259,"Who were the two exploiters who siphoned a combined total of more than 1 million ARB tokens, and what was done with the stolen tokens?"
+259,"What happened to the real Arbitrum Twitter account during the airdrop event, and why was it suspended?"
+259,"Why did some wallets attempting to estimate gas fees malfunction during the Arbitrum airdrop, showing estimates in the billions of dollars?"
+259,"Was there any successful exploit in the Arbitrum airdrop event? If so, what was its impact and how were tokens siphoned from wallets?"
+260,Which code upgrade introduced the bug that facilitated this hack?
+260,"How and when was the SafeMoon liquidity pool compromised, resulting in a theft of $8.9 million?"
+260,How was the price of the SafeMoon token artificially inflated as part of this exploit?
+260,What tactic did the attacker use to take advantage of the bug and steal from the SafeMoon liquidity pool?
+260,"What method was used by the attacker to sell the overpriced SafeMoon tokens, resulting in the stolen proceeds?"
