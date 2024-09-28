@@ -18,4 +18,4 @@ WORKDIR /home/seacevedo/app
 
 EXPOSE 8501
 
-CMD ["streamlit", "run", "/home/seacevedo/app/app.py"]
+CMD ["python3", "-m", "streamlit", "run", "app.py"]
