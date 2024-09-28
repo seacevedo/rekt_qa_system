@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.9.0
+    container_name: elasticsearch
+    ports:
+      - "${ELASTIC_PORT:-9200}:9200"
+      - "9300:9300"
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+    restart: unless-stopped
+    volumes:
+      - elasticsearch_data:/usr/share/elasticsearch/data
+
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    ports:
+      - "${OLLAMA_PORT:-11434}:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    restart: unless-stopped
+
+
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: streamlit
+    environment:
+      - ELASTIC_URL=http://elasticsearch:${ELASTIC_PORT:-9200}
+      - OLLAMA_URL=http://ollama:${OLLAMA_PORT:-11434}/v1/
+    ports:
+      - "${STREAMLIT_PORT:-8501}:8501"
+    depends_on:
+      - elasticsearch
+      - ollama
+
+  selenium:
+    image: selenium/standalone-chrome
+    container_name: selenium
+    ports:
+      - "4444:4444"
+    restart: unless-stopped
+
+volumes:
+  elasticsearch_data:
+  ollama_data:

@@ -10,6 +10,12 @@ streamlit = "*"
 notebook = "*"
 selenium = "*"
 sentence-transformers = "*"
+pandas-gbq = "*"
+google-api-python-client = "*"
+prefect = "*"
+prefect-gcp = {extras = ["all_extras"], version = "*"}
+streamlit-extras = "*"
+streamlit-feedback = "*"
 
 [dev-packages]
 
