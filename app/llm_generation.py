@@ -1,5 +1,6 @@
 from openai import OpenAI
 from typing import List
+import os
 
 
 def build_prompt(query: str, search_results: List[dict]) -> str:
@@ -31,10 +32,14 @@ def build_prompt(query: str, search_results: List[dict]) -> str:
 
 
 def llm(prompt: str, model_name: str) -> str:
+
+    OLLAMA_URL = os.getenv("OLLAMA_URL", "http://ollama:11434/v1/")
+
     client = OpenAI(
-        base_url='http://localhost:11434/v1/',
+        base_url=OLLAMA_URL,
         api_key='ollama',
     )
+    
     try:
         response = client.chat.completions.create(
             model=model_name,

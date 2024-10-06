@@ -13,6 +13,7 @@ from selenium.common.exceptions import WebDriverException
 from prefect import task
 import uuid
 import hashlib
+import os
 
 def create_uuid_from_string(val):
     hex_string = hashlib.md5(val.encode("UTF-8")).hexdigest()
@@ -32,7 +33,8 @@ def setup_driver() -> WebDriver:
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     try:
-        return webdriver.Remote("http://127.0.0.1:4444/wd/hub", options=chrome_options)
+        SELENIUM_URL = os.getenv("SELENIUM_URL", "http://selenium:4444/wd/hub")
+        return webdriver.Remote(SELENIUM_URL, options=chrome_options)
     except WebDriverException:
         print("Unable to connect to driver")
 

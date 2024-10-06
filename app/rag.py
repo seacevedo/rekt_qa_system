@@ -5,6 +5,7 @@ import time
 from monitoring import *
 from connect_bq import *
 from datetime import datetime
+import os
     
 
 def rag(query: str, llm_model_name = "llama3.1") -> None:
@@ -13,10 +14,10 @@ def rag(query: str, llm_model_name = "llama3.1") -> None:
     
     index_name = "rekt_knowledgebase"
     embedding_model_name = "multi-qa-MiniLM-L6-cos-v1"
-    es_endpoint_url = "http://localhost:9200"
+    ELASTIC_URL = os.getenv("ELASTIC_URL", "http://elasticsearch:9200")
 
     # Index Documents
-    es_client = connect_es(es_endpoint_url)
+    es_client = connect_es(ELASTIC_URL)
     documents = retrieve_documents()
     emb_model = embedding_model(embedding_model_name)
     index_docs(index_name, es_client, documents, emb_model)

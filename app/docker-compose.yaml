@@ -25,18 +25,22 @@ services:
       - "${OLLAMA_PORT:-11434}:11434"
     volumes:
       - ollama_data:/root/.ollama
+      - ./entrypoint.sh:/entrypoint.sh
     deploy:
       resources:
         reservations:
           devices:
             - capabilities: [gpu]
     restart: unless-stopped
+    entrypoint: ["/usr/bin/bash", "/entrypoint.sh"]
+
 
 
   streamlit:
     build:
       context: .
       dockerfile: Dockerfile
+    image: rekt_chat_app
     container_name: streamlit
     environment:
       - ELASTIC_URL=http://elasticsearch:${ELASTIC_PORT:-9200}
@@ -46,13 +50,6 @@ services:
     depends_on:
       - elasticsearch
       - ollama
-
-  selenium:
-    image: selenium/standalone-chrome
-    container_name: selenium
-    ports:
-      - "4444:4444"
-    restart: unless-stopped
 
 volumes:
   elasticsearch_data:
