@@ -109,3 +109,16 @@ Set file_name to `crypto_hacks` and data_path to `/home/seacevedo/flows/datasets
 
 1. Navigate to Looker Studio (https://lookerstudio.google.com/overview) and log in using your Google account. Click on `Blank Report`, and then select `BigQuery`, followed by `My Projects`. Select your project followed by the appropriate dataset, and select the `metrics` table. AN example of this can be seen in the following link: https://lookerstudio.google.com/reporting/44d64c0f-b66e-4bcb-96d0-401d981b2f1a. 
 
+# Retrieval Evaluation
+
+1. Retrieval Evaluation tests how well a system retrieves documents that answer a given query. For this project we use the Hit Rate (HR) and Mean Reciprocal Rank (MRR) metrics to evaluate retrieval performance:
+
+**Hit Rate Formula:**
+
+\[
+\text{Hit Rate} = \frac{\text{Number of Hits}}{\text{Total Opportunities}} \times 100
+\]
+
+Where:
+- **Number of Hits** = successful outcomes (e.g., successful sales, accurate predictions)
+- **Total Opportunities** = total number of attempts or chances
