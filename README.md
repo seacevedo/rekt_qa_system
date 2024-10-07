@@ -27,7 +27,7 @@ This project was developed and tested in a local environment with the following 
 
 # Environmental Setup and Configuration
 
-Before you get started, ensure you have installed Pipenv (https://pipenv.pypa.io/en/latest/) to enable proper use of the environment bu running the command `pip install --user pipenv`. After installing, run the command `pipenv install` to install all the necessary libraries. 
+Before you get started, clone this repo ensure you have installed Pipenv (https://pipenv.pypa.io/en/latest/) to enable proper use of the environment bu running the command `pip install --user pipenv`. After installing, run the command `pipenv install` to install all the necessary libraries. 
 
 ## Setup Google Cloud 
 
@@ -49,4 +49,14 @@ Before you get started, ensure you have installed Pipenv (https://pipenv.pypa.io
 * https://console.cloud.google.com/apis/library/iamcredentials.googleapis.com
 * https://console.cloud.google.com/apis/library/compute.googleapis.com
 * https://console.cloud.google.com/apis/library/run.googleapis.com
+
+9. Install [Terraform](https://www.terraform.io/)
+10. `cd` to the `terraform` directory and enter the commands `terraform init`, `terraform plan`, and `terraform apply`. You can remove the corresponding infrastructure by using `terraform destroy`. For the plan and destroy commands you will be prompted to input the following variables:
+
+| Variable       | Description  |
+| ------------- |:-------------:|
+| GOOGLE_CLOUD_PROJECT_ID      | ID of the google cloud project | 
+| GOOGLE_CLOUD_REGION     | Region that your google cloud project is hosted in  | 
+| BQ_DATASET_ID | Keyfile of the service account   | 
+| GOOGLE_CLOUD_BUCKET_NAME | ID of your bigquery datase   | 
 
