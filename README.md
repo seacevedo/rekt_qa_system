@@ -24,3 +24,7 @@ This project was developed and tested in a local environment with the following 
 
 
 # Architecture
+
+# Environmental Setup and Configuration
+
+Before you get started, ensure you have installed Pipenv (https://pipenv.pypa.io/en/latest/) to enable proper use of the environment bu running the command `pip install --user pipenv`. After installing, run the command `pipenv install` to install all the necessary libraries.
