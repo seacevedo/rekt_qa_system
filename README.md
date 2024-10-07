@@ -135,4 +135,11 @@ Where:
 
 In summary, MRR averages the reciprocal ranks of the first relevant item across all queries, providing a single metric to assess performance.
 
+| Method       | HR  | MRR  |
+| ------------- |:-------------:|------------- |
+| Minsearch | 0.73 | 0.65 |
+|Elasticsearch Text Search | 0.91  | 0.86 |
+| Elasticsearch Vector Search | 0.80  | 0.74 |
+| Elasticsearch Hybrid Search | 0.93  | 0.88 |
+
 
