@@ -113,11 +113,7 @@ Set file_name to `crypto_hacks` and data_path to `/home/seacevedo/flows/datasets
 
 1. Retrieval Evaluation tests how well a system retrieves documents that answer a given query. For this project we use the Hit Rate (HR) and Mean Reciprocal Rank (MRR) metrics to evaluate retrieval performance:
 
-**Hit Rate Formula:**
-
-\[
-\text{Hit Rate} = \frac{\text{Number of Hits}}{\text{Total Opportunities}} \times 100
-\]
+**Hit Rate Formula:** Hit Rate = (Number of Hits / Total Opportunities) × 100
 
 Where:
 - **Number of Hits** = successful outcomes (e.g., successful sales, accurate predictions)
