@@ -1,6 +1,6 @@
 # Rekt-Chat
 
-This cryptocurrency space is ridden with hacks and exploits, and as such it has been heavily criticized. Many articles, webistes, blogs, and the like have been written about the crypto space shortcomings. One such website is https://www.web3isgoinggreat.com/, a project by Molly White, that displays the hacks that involve in this new technology. This project aims to use Retrieval-Augemented Generation (RAG) to synthesize the hack data provided by https://www.web3isgoinggreat.com/ to generate a knowledgebase that can be queried by a user to explore these hacks and aid in learning.
+This cryptocurrency space is ridden with hacks and exploits, and as such it has been heavily criticized. Many articles, webistes, blogs, and the like have been written about the crypto space shortcomings. One such website is https://www.web3isgoinggreat.com/, a project by Molly White, that displays the hacks that involve in this new technology. This project aims to use Retrieval-Augemented Generation (RAG) to synthesize the hack data provided by https://www.web3isgoinggreat.com/ to generate a knowledgebase that can be queried by a user to explore these hacks and aid in learning. We will use the LLAMA 3.1 Model to generate responses to a user's question in a containerized application.
 
 # Technologies and Requirements
 
@@ -9,7 +9,8 @@ This cryptocurrency space is ridden with hacks and exploits, and as such it has 
 * [Terraform](https://www.terraform.io/) for version control of our infrastructure.
 * [Prefect](https://www.prefect.io/) will be used to orchestrate and monitor our pipeline. 
 * [Elasticsearch](https://github.com/elastic/elasticsearch) to perform document retrieval for our RAG application.
-* [Ollama](https://ollama.com/) to locally host our LLM models for our app. 
+* [Ollama](https://ollama.com/) to locally host our LLM models for our app.
+* [LLama 3.1](https://ai.meta.com/blog/meta-llama-3-1/) to generate responses for our user's questions. 
 * [Looker Studio](https://lookerstudio.google.com/overview) to visualize our monitoring metrics. 
 * [Pandas](https://pandas.pydata.org/) to import and transform our dataset.
 * [Docker](https://www.docker.com/) to containerize our deployed model and application architecture
@@ -80,7 +81,7 @@ You should now install Docker. Use the following commands, in order:
    * `docker compose build`
    * `docker compose up`
 2. You should now have an environment setup to run your Prefect pipeline. This pipeline extracts new hack data that is from the past week. You may need to adjust the `is_date_in_current_week` function in `fetch_hack_data.py` file to simulate retrieving data from a single week if no hacks have been reported in the past week.
-3. Access localhost:4200 to access the Prefect dashboard. Set up the following blocks to access GCP credentials, Buckets, and BigQuery:
+3. Access `http://localhost:4200/` to access the Prefect dashboard. Set up the following blocks to access GCP credentials, Buckets, and BigQuery:
 
 | Block Name       | Description  |
 | ------------- |:-------------:|
@@ -98,5 +99,12 @@ Set file_name to `crypto_hacks` and data_path to `/home/seacevedo/flows/datasets
 
 ## Setup RAG Application
 
-1. 
+1. Move into the `app` directory using the `cd app` command. Then run the docker containers using the following commands, in order:
+   * `docker compose build`
+   * `docker compose up`
+2. Your Docker environment should be ready and your app should be able to be accessed from the `http://localhost:8501/` url. You are ready to use the application and ask any questions. Data is retrieved from the `documents` table you set up earlier. After a user's response is generated, they have the option to upload their feedback which is uploaded to the `metrics` table.
+
+## Setup Monitoring using Looker Studio
+
+1. Navigate to Looker Studio (https://lookerstudio.google.com/overview) and log in using your Google account. Click on `Blank Report`, and then select `BigQuery`, followed by `My Projects`. Select your project followed by the appropriate dataset, and select the `metrics` table. AN example of this can be seen in the following link: https://lookerstudio.google.com/reporting/44d64c0f-b66e-4bcb-96d0-401d981b2f1a. 
 
