@@ -27,4 +27,26 @@ This project was developed and tested in a local environment with the following 
 
 # Environmental Setup and Configuration
 
-Before you get started, ensure you have installed Pipenv (https://pipenv.pypa.io/en/latest/) to enable proper use of the environment bu running the command `pip install --user pipenv`. After installing, run the command `pipenv install` to install all the necessary libraries.
+Before you get started, ensure you have installed Pipenv (https://pipenv.pypa.io/en/latest/) to enable proper use of the environment bu running the command `pip install --user pipenv`. After installing, run the command `pipenv install` to install all the necessary libraries. 
+
+## Setup Google Cloud 
+
+1. Create a google cloud account
+2. Setup a new google cloud [project](https://cloud.google.com/).
+3. Create a new service account. Give the service account the `Compute Admin`, `Service Account User`, `Storage Admin`, `Storage Object Admin`, `Cloud Run Admin`, and `BigQuery Admin` Roles.
+4. After the service account has been created, click on `Manage Keys` under the `Actions` Menu. Click on the `Add Key` dropdown and click on `Create new key`. A prompt should pop up asking to download it as a json or P12 file. Choose the json format and click `Create`. Save your key file.
+5. Install the the [Google Cloud CLI](https://cloud.google.com/sdk/docs/install-sdk). Assuming you have an Ubuntu linux distro or similar as your environment, follow the directions for `Debian/Ubuntu`. Make sure you log in by running `gcloud init`. Choose the cloud project you created to use.
+6. Set the environment variable to point to your downloaded service account keys json file:
+
+`export GOOGLE_APPLICATION_CREDENTIALS=<path/to/your/service-account-authkeys>.json`
+
+7. Refresh token/session, and verify authentication
+`gcloud auth application-default login`
+
+8. Make sure these APIs are enabled for your project:
+
+* https://console.cloud.google.com/apis/library/iam.googleapis.com
+* https://console.cloud.google.com/apis/library/iamcredentials.googleapis.com
+* https://console.cloud.google.com/apis/library/compute.googleapis.com
+* https://console.cloud.google.com/apis/library/run.googleapis.com
+
