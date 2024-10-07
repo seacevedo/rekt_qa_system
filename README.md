@@ -15,6 +15,8 @@ This cryptocurrency space is ridden with hacks and exploits, and as such it has 
 * [Pandas](https://pandas.pydata.org/) to import and transform our dataset.
 * [Docker](https://www.docker.com/) to containerize our deployed model and application architecture
 * [Docker Compose](https://docs.docker.com/compose/) for managing multiple docker containers used in this project
+* [Streamlit](https://streamlit.io/) to generate the interface for our application.
+* [Jupyter Notebook](https://jupyter.org/) to run notebooks for performing experiments and generate results on methods we can implement in our application.
 
 This project was developed and tested in a local environment with the following characteristics:
 
@@ -24,7 +26,6 @@ This project was developed and tested in a local environment with the following 
 * **GPU**: NVIDIA GeForce RTX 2060
 
 
-# Architecture
 
 # Environmental Setup and Configuration
 
