@@ -90,7 +90,7 @@ You should now install Docker. Use the following commands, in order:
 | gcp-creds      | Block pertaining to your Google cloud credentials. You need the JSON keyfile you downloaded earlier to set it up | 
 | rekt-gcs   | Block pertaining to the bucket you wish to load the data into | 
 
-4. Run the command `docker-compose exec prefect sh` to access the shell withing the Docker environment. Run `python3 -m main_flow` to set up a deployment. You can run the deployment by accessing the Prefect dashboard and clickin on `deployments`. On the top-right corner, click `Run`` and the `Quick Run`. You will be prompted to add the folloeing parameters
+4. Run the command `docker-compose exec prefect sh` to access the shell withing the Docker environment. Run `python3 -m main_flow` to set up a deployment. You can run the deployment by accessing the Prefect dashboard and clickinh on `deployments`. On the top-right corner, click `Run` and the `Quick Run`. You will be prompted to add the folloeing parameters
 
 | Parameter       | Description  |
 | ------------- |:-------------:|
