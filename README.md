@@ -25,6 +25,10 @@ This project was developed and tested in a local environment with the following 
 * **RAM**: 16 GB
 * **GPU**: NVIDIA GeForce RTX 2060
 
+# Architecture
+
+![alt_text](https://github.com/seacevedo/rekt_qa_system/blob/main/LLM%20Architecture.png)
+
 
 
 # Environmental Setup and Configuration
