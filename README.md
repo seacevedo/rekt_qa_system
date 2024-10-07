@@ -57,6 +57,27 @@ Before you get started, clone this repo ensure you have installed Pipenv (https:
 | ------------- |:-------------:|
 | GOOGLE_CLOUD_PROJECT_ID      | ID of the google cloud project | 
 | GOOGLE_CLOUD_REGION     | Region that your google cloud project is hosted in  | 
-| BQ_DATASET_ID | Keyfile of the service account   | 
-| GOOGLE_CLOUD_BUCKET_NAME | ID of your bigquery datase   | 
+| BQ_DATASET_ID | ID of your bigquery dataset   | 
+| GOOGLE_CLOUD_BUCKET_NAME | Bucket name you want to add csv files too   |
+
+11. Create a new bigquery table named `documents` in your BigQuery dataset schema by clicking on the ellipsis next to it and then selecting `Create`. Upload the file `datasets/web3isgoinggreat_test_bq_dataset.csv` to create the `documents` table. Follow the same steps to create the `metrics` table, but leave it blank.
+
+## Setup Docker
+
+You should now install Docker. Use the following commands, in order:
+    *  `sudo apt-get install ca-certificates curl gnupg`
+    *  `sudo install -m 0755 -d /etc/apt/keyrings`
+    *  `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg`
+    *  `sudo chmod a+r /etc/apt/keyrings/docker.gpg`
+    *  `echo "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null`
+    *  `sudo apt-get update -y`
+    *  `sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y`
+    *  `sudo apt install docker-compose -y`
+
+## Setup Prefect
+
+1. Move into the `flows` directory using the `cd flows` command. Then run the docker containers using the following commands, in order:
+   * `docker compose build`
+   * `docker compose up`
+2. You should now have an environment setup to run your Prefect pipeline. This pipeline extracts new hack data that is from the past week. You may need to adjust the `is_date_in_current_week` function in `fetch_hack_data.py` file to simulate retrieving data from 
 
