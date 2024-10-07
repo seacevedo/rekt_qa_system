@@ -119,7 +119,7 @@ Where:
 - **Number of Hits** = successful outcomes (e.g., successful sales, accurate predictions)
 - **Total Opportunities** = total number of attempts or chances
 
-**Mean Reciprocal Rank (MRR):** Hit Rate = (Number of Hits / Total Opportunities) × 100
+**Mean Reciprocal Rank (MRR):** MRR = (1 / N) * Σ (RR_i)
 
 Where:
 - **N** is the total number of queries.
@@ -141,5 +141,15 @@ In summary, MRR averages the reciprocal ranks of the first relevant item across 
 |Elasticsearch Text Search | 0.91  | 0.86 |
 | Elasticsearch Vector Search | 0.80  | 0.74 |
 | Elasticsearch Hybrid Search | 0.93  | 0.88 |
+
+Code for this evluation can be found in `notebooks/evaluate_retrieval.ipynb`. We implemented the Elasticsearch Hybridd Search approach for out RAG app.
+
+## RAG Evaluation
+
+We evaluated the performance our RAG pipeline using several models including, `Phi3`, `LLama3.1`, and `Mistral`. To do this we first generate an evaluation dataset using the Jupyter notebook in `notebooks/generate_evaluation_dataset.ipynb`. This notebook generates questions from documents we have retrieved from https://www.web3isgoinggreat.com/, which we can use to generate answers using our LLMs and compare to the original documents containing the answers. We used two metrics for this evalutaion, Cosine Similarity and LLM-as-a-Judge:
+
+* **Average Cosine Similarity** = Σ ((Vector of Generated Answer ⋅ Vector of Original Document) / (||Vector of Generated Answer|| * ||Vector of Original Document||)) / (Number of Total Generated Answers)
+* **LLM-as-a-Judge** = (Number of Relevant Generated Answers) / (Number of Total Generated Answers)
+
 
 
