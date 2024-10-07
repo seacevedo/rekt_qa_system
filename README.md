@@ -14,3 +14,13 @@ This cryptocurrency space is ridden with hacks and exploits, and as such it has 
 * [Pandas](https://pandas.pydata.org/) to import and transform our dataset.
 * [Docker](https://www.docker.com/) to containerize our deployed model and application architecture
 * [Docker Compose](https://docs.docker.com/compose/) for managing multiple docker containers used in this project
+
+This project was developed and tested in a local environment with the following characteristics:
+
+* **Operating System**: Ubuntu 22.04.1 LTS (Windows Subsystem for Linux)
+* **CPU**:  AMD Ryzen 5 2600 Six-Core Processor
+* **RAM**: 16 GB
+* **GPU**: NVIDIA GeForce RTX 2060
+
+
+# Architecture
