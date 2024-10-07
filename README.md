@@ -142,14 +142,20 @@ In summary, MRR averages the reciprocal ranks of the first relevant item across 
 | Elasticsearch Vector Search | 0.80  | 0.74 |
 | Elasticsearch Hybrid Search | 0.93  | 0.88 |
 
-Code for this evluation can be found in `notebooks/evaluate_retrieval.ipynb`. We implemented the Elasticsearch Hybridd Search approach for out RAG app.
+Code for this evluation can be found in `notebooks/evaluate_retrieval.ipynb`. We implemented the Elasticsearch Hybrid Search approach for our RAG app.
 
 ## RAG Evaluation
 
-We evaluated the performance our RAG pipeline using several models including, `Phi3`, `LLama3.1`, and `Mistral`. To do this we first generate an evaluation dataset using the Jupyter notebook in `notebooks/generate_evaluation_dataset.ipynb`. This notebook generates questions from documents we have retrieved from https://www.web3isgoinggreat.com/, which we can use to generate answers using our LLMs and compare to the original documents containing the answers. We used two metrics for this evalutaion, Cosine Similarity and LLM-as-a-Judge:
+We evaluated the performance our RAG pipeline using several models including, `Phi3`, `LLama3.1`, `Mistral`, and `Gemma`. To do this we first generate an evaluation dataset using the Jupyter notebook in `notebooks/generate_evaluation_dataset.ipynb`. This notebook generates questions from documents we have retrieved from https://www.web3isgoinggreat.com/, which we can use to generate answers using our LLMs and compare to the original documents containing the answers. We used two metrics for this evalutaion, Cosine Similarity and LLM-as-a-Judge:
 
 * **Average Cosine Similarity** = Σ ((Vector of Generated Answer ⋅ Vector of Original Document) / (||Vector of Generated Answer|| * ||Vector of Original Document||)) / (Number of Total Generated Answers)
 * **LLM-as-a-Judge** = (Number of Relevant Generated Answers) / (Number of Total Generated Answers)
 
+| LLM       | Average Cosine Similarity  | LLM-as-a-Judge  |
+| ------------- |:-------------:|------------- |
+| Phi3 | 0.05 | 0.08 |
+| Llama3.1 | 0.66  | 0.50 |
+| Mistral | 0.66  | 0.43 |
+| Gemma | 0.63  | 0.42 |
 
-
+Code for this evluation can be found in `notebooks//rag_offline_evaluation.ipynb`. We used Llama3.1 for our RAG app.
