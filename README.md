@@ -79,5 +79,24 @@ You should now install Docker. Use the following commands, in order:
 1. Move into the `flows` directory using the `cd flows` command. Then run the docker containers using the following commands, in order:
    * `docker compose build`
    * `docker compose up`
-2. You should now have an environment setup to run your Prefect pipeline. This pipeline extracts new hack data that is from the past week. You may need to adjust the `is_date_in_current_week` function in `fetch_hack_data.py` file to simulate retrieving data from 
+2. You should now have an environment setup to run your Prefect pipeline. This pipeline extracts new hack data that is from the past week. You may need to adjust the `is_date_in_current_week` function in `fetch_hack_data.py` file to simulate retrieving data from a single week if no hacks have been reported in the past week.
+3. Access localhost:4200 to access the Prefect dashboard. Set up the following blocks to access GCP credentials, Buckets, and BigQuery:
+
+| Block Name       | Description  |
+| ------------- |:-------------:|
+| gcp-creds      | Block pertaining to your Google cloud credentials. You need the JSON keyfile you downloaded earlier to set it up | 
+| rekt-gcs   | Block pertaining to the bucket you wish to load the data into | 
+
+4. Run the command `docker-compose exec prefect sh` to access the shell withing the Docker environment. Run `python3 -m main_flow` to set up a deployment. You can run the deployment by accessing the Prefect dashboard and clickin on `deployments`. On the top-right corner, click `Run`` and the `Quick Run`. You will be prompted to add the folloeing parameters
+
+| Parameter       | Description  |
+| ------------- |:-------------:|
+| file_name      | Base Name of dataset file scrapped fromweb3isgoinggreat.com | 
+| data_path   | path where datasets will be saved to | 
+
+Set file_name to `crypto_hacks` and data_path to `/home/seacevedo/flows/datasets/` and confirm. You should see an instance of this Pipeline running.
+
+## Setup RAG Application
+
+1. 
 
