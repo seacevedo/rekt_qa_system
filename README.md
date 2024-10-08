@@ -29,6 +29,10 @@ This project was developed and tested in a local environment with the following 
 
 ![alt_text](https://github.com/seacevedo/rekt_qa_system/blob/main/LLM%20Architecture.png)
 
+* Data is extracted from https://www.web3isgoinggreat.com/ through the use of Selenium (for scrapping the website for crypto hack summaries) and Prefect (pipeline orcestration). The extracted summaaries are parsed into documents for use with the RAG application, and moved into a Google Cloud Bucket and the BigQuery table `documents`. The environment to run this is encapsulated within a docker compose file.
+* The LLM Application is encapsulated in a docker compose file and extracts hack data from the `documents` table when the user runs the app locally and submits a query. The RAG App processes the query and uses Elasticsearch to look for relevant documents. These documents are then used by the LLama 3.1 model to generate a response (using Ollama). The user can submit feedback on the response (Positive or Negative) and this feedback along with other metrics like response time, cosine similarity to the question, etc are uploaded to the `metrics` table.
+* Users can then monitor the performance of the app using Looker Studio.
+
 
 
 # Environmental Setup and Configuration
